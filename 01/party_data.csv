@@ -1,183 +1,148 @@
 ,0
-0,"  Kandidátní listina                                    Hlasy        \
-               číslo                           název     abs.   v %   
-0                  1     SNK ED a nezávislí společně   72 106   639   
-1                  2                 Strana zelených  127 974  1133   
-2                  3    Občanská demokratická strana  326 189  2889   
-3                  4         Unie pro sport a zdraví  102 316   906   
-4                  5  NEZ.DEMOKRATÉ(předs.V.Železný)    1 929    17   
-5                  6    Česká str.sociálně demokrat.  161 564  1431   
-6                  7  Komunistická str.Čech a Moravy   98 964   876   
-7                  8                 SOS pro Liberec  236 848  2098   
-8                  9   Koruna Česká (monarch.strana)      776     7   
-9                 10   Občanská demokratická aliance      454     4   
+0,"1                           název     abs.   v %  Přepočtené %platných hlasů  \
+0     SNK ED a nezávislí společně   72 106   639                         638   
+1                 Strana zelených  127 974  1133                        1133   
+2    Občanská demokratická strana  326 189  2889                        2888   
+3         Unie pro sport a zdraví  102 316   906                         906   
+4  NEZ.DEMOKRATÉ(předs.V.Železný)    1 929    17                          74   
+5    Česká str.sociálně demokrat.  161 564  1431                        1430   
+6  Komunistická str.Čech a Moravy   98 964   876                         876   
+7                 SOS pro Liberec  236 848  2098                        2152   
+8   Koruna Česká (monarch.strana)      776     7                          67   
+9   Občanská demokratická aliance      454     4                          78   
 
-  Početkandidátů Přepočtenýzákladdle počtukandidátů  \
-  Početkandidátů Přepočtenýzákladdle počtukandidátů   
-0             39                       1 129 120,00   
-1             39                       1 129 120,00   
-2             39                       1 129 120,00   
-3             39                       1 129 120,00   
-4              9                         260 566,15   
-5             39                       1 129 120,00   
-6             39                       1 129 120,00   
-7             38                       1 100 168,20   
-8              4                         115 807,17   
-9              2                          57 903,58   
+1  Početmandátů  
+0             2  
+1             4  
+2            12  
+3             3  
+4             0  
+5             6  
+6             3  
+7             9  
+8             0  
+9             0  "
+1,"1                            název     abs.   v %  Přepočtené %platných hlasů  \
+0          Unie pro sport a zdraví   84 662   696                         695   
+1                Změna pro Liberec  251 179  2063                        2117   
+2     Občanská demokratická strana  215 899  1774                        1773   
+3     Suverenita-blok J.Bobošíkové   23 754   195                         195   
+4                           TOP 09        0     0                           0   
+5                     Věci veřejné   88 437   727                         726   
+6   Demokratická regionální strana   47 456   390                         389   
+7     Česká str.sociálně demokrat.  204 874  1683                        1683   
+8       SOS - Liberecký zastupitel   43 514   357                         357   
+9    Volte Pr.Blok www.cibulka.net      752     6                         240   
+10    Strana Práv Občanů ZEMANOVCI    9 328    77                          85   
+11                 Liberec občanům  163 246  1341                        1341   
+12  Komunistická str.Čech a Moravy   84 176   692                         691   
 
-  Přepočtené %platných hlasů Početmandátů Podílyhlasů  
-  Přepočtené %platných hlasů Početmandátů Podílyhlasů  
-0                        638            2           X  
-1                       1133            4           X  
-2                       2888           12           X  
-3                        906            3           X  
-4                         74            0           -  
-5                       1430            6           X  
-6                        876            3           X  
-7                       2152            9           X  
-8                         67            0           -  
-9                         78            0           -  "
-1,"   Kandidátní listina                                    Hlasy        \
-                číslo                           název     abs.   v %   
-0                   1         Unie pro sport a zdraví   84 662   696   
-1                   2               Změna pro Liberec  251 179  2063   
-2                   3    Občanská demokratická strana  215 899  1774   
-3                   4    Suverenita-blok J.Bobošíkové   23 754   195   
-4                   5                          TOP 09        0     0   
-5                   6                    Věci veřejné   88 437   727   
-6                   7  Demokratická regionální strana   47 456   390   
-7                   8    Česká str.sociálně demokrat.  204 874  1683   
-8                   9      SOS - Liberecký zastupitel   43 514   357   
-9                  10   Volte Pr.Blok www.cibulka.net      752     6   
-10                 11    Strana Práv Občanů ZEMANOVCI    9 328    77   
-11                 12                 Liberec občanům  163 246  1341   
-12                 13  Komunistická str.Čech a Moravy   84 176   692   
+1   Početmandátů  
+0              3  
+1              9  
+2              8  
+3              0  
+4              0  
+5              3  
+6              0  
+7              7  
+8              0  
+9              0  
+10             0  
+11             6  
+12             3  "
+2,"1                            název     abs.   v %  Přepočtené %platných hlasů  \
+0    Nový směr-společná kandidátka   28 259   271                         271   
+1     Česká str.sociálně demokrat.  102 429   982                         982   
+2    Starostové pro Liberecký kraj  172 933  1659                        1658   
+3                Změna pro Liberec  265 450  2546                        2545   
+4           Úsvit přímé demokracie   14 479   139                         138   
+5              KDU-ČSL a nezávislí   23 964   230                         229   
+6     Str.pro otevřenou společnost    6 044    58                          62   
+7                           TOP 09   56 952   546                         546   
+8               Liberec ještě žije   16 293   156                         156   
+9         Strana svobodných občanů   19 909   191                         190   
+10  Komunistická str.Čech a Moravy   58 283   559                         558   
+11    Občanská demokratická strana   52 598   504                         504   
+12                        ANO 2011  188 225  1805                        1805   
+13              Strana Práv Občanů    2 016    19                          21   
+14              PRO Sport a Zdraví   34 841   334                         334   
 
-   Početkandidátů Přepočtenýzákladdle počtukandidátů  \
-   Početkandidátů Přepočtenýzákladdle počtukandidátů   
-0              39                       1 217 277,00   
-1              38                       1 186 064,76   
-2              39                       1 217 277,00   
-3              39                       1 217 277,00   
-4               0                                000   
-5              39                       1 217 277,00   
-6              39                       1 217 277,00   
-7              39                       1 217 277,00   
-8              39                       1 217 277,00   
-9               1                          31 212,23   
-10             35                       1 092 428,07   
-11             39                       1 217 277,00   
-12             39                       1 217 277,00   
+1   Početmandátů  
+0              0  
+1              4  
+2              8  
+3             12  
+4              0  
+5              0  
+6              0  
+7              2  
+8              0  
+9              0  
+10             2  
+11             2  
+12             9  
+13             0  
+14             0  "
+3,"1                            název     abs.   v %  Přepočtené %platných hlasů  \
+0          Unie pro sport a zdraví   50 604   426                         425   
+1   Svob.a př.dem.-T.Okamura (SPD)   54 539   459                         458   
+2    Starostové pro Liberecký kraj  381 613  3210                        3210   
+3     Občanská demokratická strana   99 621   838                         838   
+4                         ANO 2011  253 959  2136                        2136   
+5    Liberec otevřený lidem - LOL!   62 686   527                         527   
+6   PRO 2016 s podporou Svobodných   42 636   359                         368   
+7                    Liberec Plus+   18 622   157                         156   
+8   Komunistická str.Čech a Moravy   35 979   303                         302   
+9                Změna pro Liberec  157 737  1327                        1326   
+10           Strana soukromníků ČR    5 491    46                          51   
+11    Česká str.sociálně demokrat.   25 192   212                         211   
 
-   Přepočtené %platných hlasů Početmandátů Podílyhlasů  
-   Přepočtené %platných hlasů Početmandátů Podílyhlasů  
-0                         695            3           X  
-1                        2117            9           X  
-2                        1773            8           X  
-3                         195            0           -  
-4                           0            0           -  
-5                         726            3           X  
-6                         389            0           -  
-7                        1683            7           X  
-8                         357            0           -  
-9                         240            0           -  
-10                         85            0           -  
-11                       1341            6           X  
-12                        691            3           X  "
-2,"   Kandidátní listina                                    Hlasy        \
-                číslo                           název     abs.   v %   
-0                   1   Nový směr-společná kandidátka   28 259   271   
-1                   2    Česká str.sociálně demokrat.  102 429   982   
-2                   3   Starostové pro Liberecký kraj  172 933  1659   
-3                   4               Změna pro Liberec  265 450  2546   
-4                   5          Úsvit přímé demokracie   14 479   139   
-5                   6             KDU-ČSL a nezávislí   23 964   230   
-6                   7    Str.pro otevřenou společnost    6 044    58   
-7                   8                          TOP 09   56 952   546   
-8                   9              Liberec ještě žije   16 293   156   
-9                  10        Strana svobodných občanů   19 909   191   
-10                 11  Komunistická str.Čech a Moravy   58 283   559   
-11                 12    Občanská demokratická strana   52 598   504   
-12                 13                        ANO 2011  188 225  1805   
-13                 14              Strana Práv Občanů    2 016    19   
-14                 15              PRO Sport a Zdraví   34 841   334   
+1   Početmandátů  
+0              0  
+1              0  
+2             16  
+3              4  
+4             11  
+5              2  
+6              0  
+7              0  
+8              0  
+9              6  
+10             0  
+11             0  "
+4,"1                                               název     abs.    v %  \
+0   Křesťanská a demokratická unie - Československ...   35 474   3.60   
+1                  Česká strana sociálně demokratická  155 273  15.76   
+2                   Komunistická strana Čech a Moravy  105 909  10.75   
+3                        Občanská demokratická strana  273 081  27.72   
+4                                           NEZÁVISLÍ   50 781   5.15   
+5   Pravý Blok-strana za ODVOLAT.politiků, NÍZKÉ d...    2 874   0.29   
+6                    Unie svobody - Demokratická unie   53 994   5.48   
+7                     Strana pro otevřenou společnost   97 869   9.93   
+8                      Demokratická regionální strana   60 223   6.11   
+9   Hnutí nezávislých za harmonický rozvoj obcí a ...   19 386   1.97   
+10                                    Volba pro město   42 205   4.28   
+11                            Unie pro sport a zdraví   70 812   7.19   
+12                       Republikáni Miroslava Sládka    1 465   0.15   
+13                           Strana svobodných severu    3 527   0.36   
+14                       Strana občanského porozumění    3 370   0.34   
+15                                             Naděje    9 041   0.92   
 
-   Početkandidátů Přepočtenýzákladdle počtukandidátů  \
-   Početkandidátů Přepočtenýzákladdle počtukandidátů   
-0              39                       1 042 675,00   
-1              39                       1 042 675,00   
-2              39                       1 042 675,00   
-3              39                       1 042 675,00   
-4              39                       1 042 675,00   
-5              39                       1 042 675,00   
-6              36                         962 469,23   
-7              39                       1 042 675,00   
-8              39                       1 042 675,00   
-9              39                       1 042 675,00   
-10             39                       1 042 675,00   
-11             39                       1 042 675,00   
-12             39                       1 042 675,00   
-13             35                         935 733,97   
-14             39                       1 042 675,00   
-
-   Přepočtené %platných hlasů Početmandátů Podílyhlasů  
-   Přepočtené %platných hlasů Početmandátů Podílyhlasů  
-0                         271            0           -  
-1                         982            4           X  
-2                        1658            8           X  
-3                        2545           12           X  
-4                         138            0           -  
-5                         229            0           -  
-6                          62            0           -  
-7                         546            2           X  
-8                         156            0           -  
-9                         190            0           -  
-10                        558            2           X  
-11                        504            2           X  
-12                       1805            9           X  
-13                         21            0           -  
-14                        334            0           -  "
-3,"   Kandidátní listina                                    Hlasy        \
-                číslo                           název     abs.   v %   
-0                   1         Unie pro sport a zdraví   50 604   426   
-1                   2  Svob.a př.dem.-T.Okamura (SPD)   54 539   459   
-2                   3   Starostové pro Liberecký kraj  381 613  3210   
-3                   4    Občanská demokratická strana   99 621   838   
-4                   5                        ANO 2011  253 959  2136   
-5                   6   Liberec otevřený lidem - LOL!   62 686   527   
-6                   7  PRO 2016 s podporou Svobodných   42 636   359   
-7                   8                   Liberec Plus+   18 622   157   
-8                   9  Komunistická str.Čech a Moravy   35 979   303   
-9                  10               Změna pro Liberec  157 737  1327   
-10                 11           Strana soukromníků ČR    5 491    46   
-11                 12    Česká str.sociálně demokrat.   25 192   212   
-
-   Početkandidátů Přepočtenýzákladdle počtukandidátů  \
-   Početkandidátů Přepočtenýzákladdle počtukandidátů   
-0              39                       1 188 679,00   
-1              39                       1 188 679,00   
-2              39                       1 188 679,00   
-3              39                       1 188 679,00   
-4              39                       1 188 679,00   
-5              39                       1 188 679,00   
-6              38                       1 158 200,05   
-7              39                       1 188 679,00   
-8              39                       1 188 679,00   
-9              39                       1 188 679,00   
-10             35                       1 066 763,20   
-11             39                       1 188 679,00   
-
-   Přepočtené %platných hlasů Početmandátů Podílyhlasů  
-   Přepočtené %platných hlasů Početmandátů Podílyhlasů  
-0                         425            0           -  
-1                         458            0           -  
-2                        3210           16           X  
-3                         838            4           X  
-4                        2136           11           X  
-5                         527            2           X  
-6                         368            0           -  
-7                         156            0           -  
-8                         302            0           -  
-9                        1326            6           X  
-10                         51            0           -  
-11                        211            0           -  "
+1   Přepočtené %platných hlasů  Početmandátů  
+0                            0          0.00  
+1                            7         17.95  
+2                            5         12.82  
+3                           13         33.33  
+4                            2          5.13  
+5                            0          0.00  
+6                            2          5.13  
+7                            4         10.26  
+8                            3          7.69  
+9                            0          0.00  
+10                           0          0.00  
+11                           3          7.69  
+12                           0          0.00  
+13                           0          0.00  
+14                           0          0.00  
+15                           0          0.00  "

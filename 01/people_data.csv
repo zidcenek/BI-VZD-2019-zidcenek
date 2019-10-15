@@ -1,773 +1,1014 @@
 ,0
-0,"    Kandidátní listina                                  Kandidát  \
-                 číslo                           název poř.číslo   
-0                    2                 Strana zelených         5   
-1                    4         Unie pro sport a zdraví         7   
-2                    4         Unie pro sport a zdraví        27   
-3                    8                 SOS pro Liberec        11   
-4                    8                 SOS pro Liberec        38   
-5                    7  Komunistická str.Čech a Moravy        29   
-6                    6    Česká str.sociálně demokrat.        10   
-7                    1     SNK ED a nezávislí společně        34   
-8                    8                 SOS pro Liberec        26   
-9                    2                 Strana zelených        37   
-10                   3    Občanská demokratická strana         4   
-11                   9   Koruna Česká (monarch.strana)         3   
-12                   8                 SOS pro Liberec         5   
-13                   8                 SOS pro Liberec        32   
-14                   1     SNK ED a nezávislí společně        25   
-15                   7  Komunistická str.Čech a Moravy        27   
-16                   4         Unie pro sport a zdraví        29   
-17                   3    Občanská demokratická strana        37   
-18                   4         Unie pro sport a zdraví         3   
-19                   1     SNK ED a nezávislí společně        19   
-20                   1     SNK ED a nezávislí společně        24   
-21                   3    Občanská demokratická strana        30   
-22                   1     SNK ED a nezávislí společně        39   
-23                   1     SNK ED a nezávislí společně         4   
-24                   3    Občanská demokratická strana         2   
-25                   2                 Strana zelených        14   
-26                   6    Česká str.sociálně demokrat.        11   
-27                   4         Unie pro sport a zdraví         5   
-28                   2                 Strana zelených        20   
-29                   2                 Strana zelených        36   
-..                 ...                             ...       ...   
-257                  7  Komunistická str.Čech a Moravy        26   
-258                  4         Unie pro sport a zdraví         8   
-259                  2                 Strana zelených         4   
-260                  1     SNK ED a nezávislí společně         9   
-261                  7  Komunistická str.Čech a Moravy        19   
-262                  8                 SOS pro Liberec        22   
-263                  5  NEZ.DEMOKRATÉ(předs.V.Železný)         6   
-264                  6    Česká str.sociálně demokrat.        23   
-265                  4         Unie pro sport a zdraví         1   
-266                  3    Občanská demokratická strana         8   
-267                  1     SNK ED a nezávislí společně        33   
-268                  2                 Strana zelených        26   
-269                  8                 SOS pro Liberec        18   
-270                  8                 SOS pro Liberec        35   
-271                  3    Občanská demokratická strana        12   
-272                  1     SNK ED a nezávislí společně        20   
-273                  7  Komunistická str.Čech a Moravy         9   
-274                  2                 Strana zelených        31   
-275                  2                 Strana zelených        30   
-276                  5  NEZ.DEMOKRATÉ(předs.V.Železný)         9   
-277                  9   Koruna Česká (monarch.strana)         4   
-278                  6    Česká str.sociálně demokrat.         7   
-279                  6    Česká str.sociálně demokrat.        35   
-280                  8                 SOS pro Liberec         9   
-281                  7  Komunistická str.Čech a Moravy        14   
-282                  3    Občanská demokratická strana        18   
-283                  5  NEZ.DEMOKRATÉ(předs.V.Železný)         2   
-284                  1     SNK ED a nezávislí společně        17   
-285                  6    Česká str.sociálně demokrat.        39   
-286                  3    Občanská demokratická strana        23   
+0,"     číslo                           název  poř.číslo  \
+0        2                 Strana zelených          5   
+1        4         Unie pro sport a zdraví          7   
+2        4         Unie pro sport a zdraví         27   
+3        8                 SOS pro Liberec         11   
+4        8                 SOS pro Liberec         38   
+5        7  Komunistická str.Čech a Moravy         29   
+6        6    Česká str.sociálně demokrat.         10   
+7        1     SNK ED a nezávislí společně         34   
+8        8                 SOS pro Liberec         26   
+9        2                 Strana zelených         37   
+10       3    Občanská demokratická strana          4   
+11       9   Koruna Česká (monarch.strana)          3   
+12       8                 SOS pro Liberec          5   
+13       8                 SOS pro Liberec         32   
+14       1     SNK ED a nezávislí společně         25   
+15       7  Komunistická str.Čech a Moravy         27   
+16       4         Unie pro sport a zdraví         29   
+17       3    Občanská demokratická strana         37   
+18       4         Unie pro sport a zdraví          3   
+19       1     SNK ED a nezávislí společně         19   
+20       1     SNK ED a nezávislí společně         24   
+21       3    Občanská demokratická strana         30   
+22       1     SNK ED a nezávislí společně         39   
+23       1     SNK ED a nezávislí společně          4   
+24       3    Občanská demokratická strana          2   
+25       2                 Strana zelených         14   
+26       6    Česká str.sociálně demokrat.         11   
+27       4         Unie pro sport a zdraví          5   
+28       2                 Strana zelených         20   
+29       2                 Strana zelených         36   
+..     ...                             ...        ...   
+257      7  Komunistická str.Čech a Moravy         26   
+258      4         Unie pro sport a zdraví          8   
+259      2                 Strana zelených          4   
+260      1     SNK ED a nezávislí společně          9   
+261      7  Komunistická str.Čech a Moravy         19   
+262      8                 SOS pro Liberec         22   
+263      5  NEZ.DEMOKRATÉ(předs.V.Železný)          6   
+264      6    Česká str.sociálně demokrat.         23   
+265      4         Unie pro sport a zdraví          1   
+266      3    Občanská demokratická strana          8   
+267      1     SNK ED a nezávislí společně         33   
+268      2                 Strana zelených         26   
+269      8                 SOS pro Liberec         18   
+270      8                 SOS pro Liberec         35   
+271      3    Občanská demokratická strana         12   
+272      1     SNK ED a nezávislí společně         20   
+273      7  Komunistická str.Čech a Moravy          9   
+274      2                 Strana zelených         31   
+275      2                 Strana zelených         30   
+276      5  NEZ.DEMOKRATÉ(předs.V.Železný)          9   
+277      9   Koruna Česká (monarch.strana)          4   
+278      6    Česká str.sociálně demokrat.          7   
+279      6    Česká str.sociálně demokrat.         35   
+280      8                 SOS pro Liberec          9   
+281      7  Komunistická str.Čech a Moravy         14   
+282      3    Občanská demokratická strana         18   
+283      5  NEZ.DEMOKRATÉ(předs.V.Železný)          2   
+284      1     SNK ED a nezávislí společně         17   
+285      6    Česká str.sociálně demokrat.         39   
+286      3    Občanská demokratická strana         23   
 
-                                    Navrhujícístrana Politickápříslušnost  \
-        příjmení, jméno, tituly věk Navrhujícístrana Politickápříslušnost   
-0     Absolonová Kateřina MUDr.  40               SZ                BEZPP   
-1       Bahníková Štefania Ing.  53              USZ                  USZ   
-2                   Bachtík Jan  72              USZ                BEZPP   
-3               Becker Ladislav  52               CZ                   CZ   
-4        Bednaříková Olga Marie  55              SOS                BEZPP   
-5               Bělohlávek Jiří  56             KSČM                 KSČM   
-6               Bělochová Šárka  23             ČSSD                 ČSSD   
-7                      Benc Ivo  42               NK                BEZPP   
-8        Beránek Stanislav Ing.  48           US-DEU               US-DEU   
-9                  Bergl Václav  60               SZ                BEZPP   
-10            Bernát Pavel Ing.  45              ODS                  ODS   
-11          Bernkopf Tomáš Ing.  47             ""KČ""                BEZPP   
-12                Bobková Ivana  49              SOS                  SOS   
-13          Bobvošová Lenka Bc.  44              SOS                BEZPP   
-14               Boris Miroslav  50           SNK ED               SNK ED   
-15          Bubník Oldřich Ing.  66             KSČM                 KSČM   
-16        Bydžovský Marek MUDr.  38              USZ                BEZPP   
-17                 Cerman Marek  31              ODS                  ODS   
-18        Cvrček Stanislav Mgr.  52              USZ                  USZ   
-19              Čech Pavel Ing.  63           SNK ED               SNK ED   
-20               Čechová Zdeňka  67           SNK ED               SNK ED   
-21          Čermáková Soňa Ing.  53              ODS                  ODS   
-22                  Černý Pavel  19               NK                BEZPP   
-23                   Černý Petr  32           SNK ED               SNK ED   
-24         Červinka Ondřej Ing.  29              ODS                  ODS   
-25       Čtvrtečka Richard Mgr.  42               SZ                BEZPP   
-26          Čurdová Lenka MUDr.  37             ČSSD                 ČSSD   
-27          Čvančara Alois Mgr.  61              USZ                  DRS   
-28                     Daňo Jan  50               SZ                BEZPP   
-29              Dobreva Zlatuše  35               SZ                BEZPP   
-..                          ...  ..              ...                  ...   
-257             Urbánková Marie  59             KSČM                 KSČM   
-258                Vacková Jana  49              USZ                  USZ   
-259  Václavík David PhDr. Ph.D.  31               SZ                   SZ   
-260                 Vaner Karel  61           SNK ED               SNK ED   
-261                Vaňková Hana  57             KSČM                 KSČM   
-262        Vejvarová Hana MUDr.  62               NK                BEZPP   
-263            Velechovská Jana  64          NEZ/DEM                BEZPP   
-264         Vereščák Michal Bc.  24             ČSSD                 ČSSD   
-265           Veselka Jiří Ing.  47              USZ                  USZ   
-266                 Veverka Jan  30              ODS                  ODS   
-267                 Víc Bohumil  52               NK                BEZPP   
-268               Vimmer Ctibor  47               SZ                BEZPP   
-269       Vohlídalová Věra Mgr.  64              VPM                BEZPP   
-270             Vojáčková Radka  33              SOS                  SOS   
-271      Vojtíšek Vladimír Ing.  47              ODS                  ODS   
-272              Vojtková Marie  38               NK                BEZPP   
-273              Voldřich Milan  51             KSČM                 KSČM   
-274         Vorlíčková Michaela  31               SZ                BEZPP   
-275        Vrabec Vladimír Mgr.  27               SZ                BEZPP   
-276              Vrátný Bohumil  71          NEZ/DEM                BEZPP   
-277               Vrbová Zuzana  33             ""KČ""                 ""KČ""   
-278             Vrkoč Ivo MUDr.  47             ČSSD                BEZPP   
-279              Wildner Michal  25             ČSSD                 ČSSD   
-280           Winter Josef Ing.  71              SOS                  SOS   
-281           Zelinková Ludmila  59             KSČM                 KSČM   
-282                Zeronik Jiří  30              ODS                  ODS   
-283          Zeronik Pavel Mgr.  28          NEZ/DEM                BEZPP   
-284            Zikmund Miroslav  47           SNK ED               SNK ED   
-285              Zwiener Rudolf  60             ČSSD                 ČSSD   
-286                  Židek Petr  37              ODS                  ODS   
+        příjmení, jméno, tituly        Tituly      věk Navrhujícístrana  \
+0     Absolonová Kateřina MUDr.         MUDr.       SZ            BEZPP   
+1       Bahníková Štefania Ing.          Ing.      USZ              USZ   
+2                   Bachtík Jan                    USZ            BEZPP   
+3               Becker Ladislav                     CZ               CZ   
+4        Bednaříková Olga Marie                    SOS            BEZPP   
+5               Bělohlávek Jiří                   KSČM             KSČM   
+6               Bělochová Šárka                   ČSSD             ČSSD   
+7                      Benc Ivo                     NK            BEZPP   
+8        Beránek Stanislav Ing.          Ing.   US-DEU           US-DEU   
+9                  Bergl Václav                     SZ            BEZPP   
+10            Bernát Pavel Ing.          Ing.      ODS              ODS   
+11          Bernkopf Tomáš Ing.          Ing.     ""KČ""            BEZPP   
+12                Bobková Ivana                    SOS              SOS   
+13          Bobvošová Lenka Bc.           Bc.      SOS            BEZPP   
+14               Boris Miroslav                 SNK ED           SNK ED   
+15          Bubník Oldřich Ing.          Ing.     KSČM             KSČM   
+16        Bydžovský Marek MUDr.         MUDr.      USZ            BEZPP   
+17                 Cerman Marek                    ODS              ODS   
+18        Cvrček Stanislav Mgr.          Mgr.      USZ              USZ   
+19              Čech Pavel Ing.          Ing.   SNK ED           SNK ED   
+20               Čechová Zdeňka                 SNK ED           SNK ED   
+21          Čermáková Soňa Ing.          Ing.      ODS              ODS   
+22                  Černý Pavel                     NK            BEZPP   
+23                   Černý Petr                 SNK ED           SNK ED   
+24         Červinka Ondřej Ing.          Ing.      ODS              ODS   
+25       Čtvrtečka Richard Mgr.          Mgr.       SZ            BEZPP   
+26          Čurdová Lenka MUDr.         MUDr.     ČSSD             ČSSD   
+27          Čvančara Alois Mgr.          Mgr.      USZ              DRS   
+28                     Daňo Jan                     SZ            BEZPP   
+29              Dobreva Zlatuše                     SZ            BEZPP   
+..                          ...           ...      ...              ...   
+257             Urbánková Marie                   KSČM             KSČM   
+258                Vacková Jana                    USZ              USZ   
+259  Václavík David PhDr. Ph.D.   PhDr. Ph.D.       SZ               SZ   
+260                 Vaner Karel                 SNK ED           SNK ED   
+261                Vaňková Hana                   KSČM             KSČM   
+262        Vejvarová Hana MUDr.         MUDr.       NK            BEZPP   
+263            Velechovská Jana                NEZ/DEM            BEZPP   
+264         Vereščák Michal Bc.           Bc.     ČSSD             ČSSD   
+265           Veselka Jiří Ing.          Ing.      USZ              USZ   
+266                 Veverka Jan                    ODS              ODS   
+267                 Víc Bohumil                     NK            BEZPP   
+268               Vimmer Ctibor                     SZ            BEZPP   
+269       Vohlídalová Věra Mgr.          Mgr.      VPM            BEZPP   
+270             Vojáčková Radka                    SOS              SOS   
+271      Vojtíšek Vladimír Ing.          Ing.      ODS              ODS   
+272              Vojtková Marie                     NK            BEZPP   
+273              Voldřich Milan                   KSČM             KSČM   
+274         Vorlíčková Michaela                     SZ            BEZPP   
+275        Vrabec Vladimír Mgr.          Mgr.       SZ            BEZPP   
+276              Vrátný Bohumil                NEZ/DEM            BEZPP   
+277               Vrbová Zuzana                   ""KČ""             ""KČ""   
+278             Vrkoč Ivo MUDr.         MUDr.     ČSSD            BEZPP   
+279              Wildner Michal                   ČSSD             ČSSD   
+280           Winter Josef Ing.          Ing.      SOS              SOS   
+281           Zelinková Ludmila                   KSČM             KSČM   
+282                Zeronik Jiří                    ODS              ODS   
+283          Zeronik Pavel Mgr.          Mgr.  NEZ/DEM            BEZPP   
+284            Zikmund Miroslav                 SNK ED           SNK ED   
+285              Zwiener Rudolf                   ČSSD             ČSSD   
+286                  Židek Petr                    ODS              ODS   
 
-     Hlasy       Pořadízvolení/náhradníka Mandát  
-      abs.   v % Pořadízvolení/náhradníka Mandát  
-0    4 116   321                        4      *  
-1    2 739   267                        6      -  
-2    2 202   215                       24      -  
-3    6 157   259                        2      -  
-4    5 179   218                       28      -  
-5    2 490   251                       26      -  
-6    4 255   263                        4      -  
-7    1 511   209                       32      -  
-8    5 916   249                       16      -  
-9    2 584   201                       33      -  
-10   8 697   266                        4      *  
-11     227  2925                        -      -  
-12   6 612   279                        6      *  
-13   5 954   251                       22      -  
-14   1 649   228                       23      -  
-15   2 501   252                       24      -  
-16   2 640   258                       26      -  
-17   7 562   231                       25      -  
-18   3 289   321                        3      -  
-19   1 808   250                       17      -  
-20   1 632   226                       22      -  
-21   8 171   250                       18      -  
-22   1 318   182                       37      -  
-23   2 329   322                        3      -  
-24   8 763   268                        2      *  
-25   3 555   277                       10      -  
-26   4 369   270                        5      -  
-27   3 575   349                        1      -  
-28   3 063   239                       16      -  
-29   2 648   206                       32      -  
-..     ...   ...                      ...    ...  
-257  2 472   249                       23      -  
-258  2 662   260                        7      -  
-259  4 338   338                        2      *  
-260  1 898   263                        8      -  
-261  2 553   257                       16      -  
-262  6 370   268                       12      -  
-263    136   705                        -      -  
-264  4 151   256                       17      -  
-265  3 229   315                        4      -  
-266  8 575   262                        8      *  
-267  1 528   211                       31      -  
-268  2 977   232                       22      -  
-269  6 563   277                        8      -  
-270  5 612   236                       25      -  
-271  8 587   263                       12      *  
-272  1 734   240                       18      -  
-273  2 613   264                        6      -  
-274  2 881   225                       27      -  
-275  3 079   240                       26      -  
-276    135   699                        -      -  
-277    206  2654                        -      -  
-278  4 473   276                        1      -  
-279  3 785   234                       29      -  
-280  6 272   264                        1      -  
-281  2 545   257                       11      -  
-282  8 458   259                        6      -  
-283    389  2016                        -      -  
-284  1 802   249                       15      -  
-285  3 335   206                       33      -  
-286  8 345   255                       11      -  
+    Politickápříslušnost  abs. v % Pořadízvolení/náhradníka  Mandát  
+0                  4 116   321   4                        *     NaN  
+1                  2 739   267   6                        -     NaN  
+2                  2 202   215  24                        -     NaN  
+3                  6 157   259   2                        -     NaN  
+4                  5 179   218  28                        -     NaN  
+5                  2 490   251  26                        -     NaN  
+6                  4 255   263   4                        -     NaN  
+7                  1 511   209  32                        -     NaN  
+8                  5 916   249  16                        -     NaN  
+9                  2 584   201  33                        -     NaN  
+10                 8 697   266   4                        *     NaN  
+11                   227  2925   -                        -     NaN  
+12                 6 612   279   6                        *     NaN  
+13                 5 954   251  22                        -     NaN  
+14                 1 649   228  23                        -     NaN  
+15                 2 501   252  24                        -     NaN  
+16                 2 640   258  26                        -     NaN  
+17                 7 562   231  25                        -     NaN  
+18                 3 289   321   3                        -     NaN  
+19                 1 808   250  17                        -     NaN  
+20                 1 632   226  22                        -     NaN  
+21                 8 171   250  18                        -     NaN  
+22                 1 318   182  37                        -     NaN  
+23                 2 329   322   3                        -     NaN  
+24                 8 763   268   2                        *     NaN  
+25                 3 555   277  10                        -     NaN  
+26                 4 369   270   5                        -     NaN  
+27                 3 575   349   1                        -     NaN  
+28                 3 063   239  16                        -     NaN  
+29                 2 648   206  32                        -     NaN  
+..                   ...   ...  ..                      ...     ...  
+257                2 472   249  23                        -     NaN  
+258                2 662   260   7                        -     NaN  
+259                4 338   338   2                        *     NaN  
+260                1 898   263   8                        -     NaN  
+261                2 553   257  16                        -     NaN  
+262                6 370   268  12                        -     NaN  
+263                  136   705   -                        -     NaN  
+264                4 151   256  17                        -     NaN  
+265                3 229   315   4                        -     NaN  
+266                8 575   262   8                        *     NaN  
+267                1 528   211  31                        -     NaN  
+268                2 977   232  22                        -     NaN  
+269                6 563   277   8                        -     NaN  
+270                5 612   236  25                        -     NaN  
+271                8 587   263  12                        *     NaN  
+272                1 734   240  18                        -     NaN  
+273                2 613   264   6                        -     NaN  
+274                2 881   225  27                        -     NaN  
+275                3 079   240  26                        -     NaN  
+276                  135   699   -                        -     NaN  
+277                  206  2654   -                        -     NaN  
+278                4 473   276   1                        -     NaN  
+279                3 785   234  29                        -     NaN  
+280                6 272   264   1                        -     NaN  
+281                2 545   257  11                        -     NaN  
+282                8 458   259   6                        -     NaN  
+283                  389  2016   -                        -     NaN  
+284                1 802   249  15                        -     NaN  
+285                3 335   206  33                        -     NaN  
+286                8 345   255  11                        -     NaN  
 
-[287 rows x 11 columns]"
-1,"    Kandidátní listina                                  Kandidát  \
-                 číslo                           název poř.číslo   
-0                    2               Změna pro Liberec        19   
-1                   11    Strana Práv Občanů ZEMANOVCI        29   
-2                    2               Změna pro Liberec         2   
-3                    7  Demokratická regionální strana        11   
-4                    9      SOS - Liberecký zastupitel        14   
-5                    9      SOS - Liberecký zastupitel        35   
-6                    1         Unie pro sport a zdraví        25   
-7                   12                 Liberec občanům        34   
-8                    2               Změna pro Liberec        16   
-9                    6                    Věci veřejné        15   
-10                   7  Demokratická regionální strana        22   
-11                  13  Komunistická str.Čech a Moravy        17   
-12                   6                    Věci veřejné         6   
-13                   2               Změna pro Liberec         5   
-14                   4    Suverenita-blok J.Bobošíkové         5   
-15                  13  Komunistická str.Čech a Moravy        11   
-16                   9      SOS - Liberecký zastupitel        17   
-17                  10   Volte Pr.Blok www.cibulka.net         1   
-18                  12                 Liberec občanům        10   
-19                   3    Občanská demokratická strana         8   
-20                  11    Strana Práv Občanů ZEMANOVCI         2   
-21                   1         Unie pro sport a zdraví        30   
-22                   4    Suverenita-blok J.Bobošíkové        24   
-23                   7  Demokratická regionální strana        30   
-24                   4    Suverenita-blok J.Bobošíkové        17   
-25                   6                    Věci veřejné        16   
-26                  13  Komunistická str.Čech a Moravy        21   
-27                   1         Unie pro sport a zdraví        14   
-28                   6                    Věci veřejné        29   
-29                  12                 Liberec občanům        21   
-..                 ...                             ...       ...   
-395                  6                    Věci veřejné        33   
-396                  6                    Věci veřejné        12   
-397                  2               Změna pro Liberec        33   
-398                  2               Změna pro Liberec        14   
-399                  7  Demokratická regionální strana         9   
-400                  4    Suverenita-blok J.Bobošíkové         8   
-401                  3    Občanská demokratická strana        15   
-402                 13  Komunistická str.Čech a Moravy         7   
-403                  6                    Věci veřejné        35   
-404                 13  Komunistická str.Čech a Moravy         6   
-405                  8    Česká str.sociálně demokrat.        13   
-406                  2               Změna pro Liberec        29   
-407                  6                    Věci veřejné        36   
-408                  6                    Věci veřejné        25   
-409                  9      SOS - Liberecký zastupitel         7   
-410                  3    Občanská demokratická strana        23   
-411                  9      SOS - Liberecký zastupitel        27   
-412                  3    Občanská demokratická strana        31   
-413                  8    Česká str.sociálně demokrat.        18   
-414                  1         Unie pro sport a zdraví        12   
-415                  4    Suverenita-blok J.Bobošíkové        36   
-416                 12                 Liberec občanům        26   
-417                 13  Komunistická str.Čech a Moravy         8   
-418                  3    Občanská demokratická strana        14   
-419                  7  Demokratická regionální strana         2   
-420                  3    Občanská demokratická strana        36   
-421                  6                    Věci veřejné        14   
-422                  9      SOS - Liberecký zastupitel        20   
-423                 11    Strana Práv Občanů ZEMANOVCI        17   
-424                  6                    Věci veřejné         8   
+[287 rows x 12 columns]"
+1,"     číslo                           název  poř.číslo  \
+0        2               Změna pro Liberec         19   
+1       11    Strana Práv Občanů ZEMANOVCI         29   
+2        2               Změna pro Liberec          2   
+3        7  Demokratická regionální strana         11   
+4        9      SOS - Liberecký zastupitel         14   
+5        9      SOS - Liberecký zastupitel         35   
+6        1         Unie pro sport a zdraví         25   
+7       12                 Liberec občanům         34   
+8        2               Změna pro Liberec         16   
+9        6                    Věci veřejné         15   
+10       7  Demokratická regionální strana         22   
+11      13  Komunistická str.Čech a Moravy         17   
+12       6                    Věci veřejné          6   
+13       2               Změna pro Liberec          5   
+14       4    Suverenita-blok J.Bobošíkové          5   
+15      13  Komunistická str.Čech a Moravy         11   
+16       9      SOS - Liberecký zastupitel         17   
+17      10   Volte Pr.Blok www.cibulka.net          1   
+18      12                 Liberec občanům         10   
+19       3    Občanská demokratická strana          8   
+20      11    Strana Práv Občanů ZEMANOVCI          2   
+21       1         Unie pro sport a zdraví         30   
+22       4    Suverenita-blok J.Bobošíkové         24   
+23       7  Demokratická regionální strana         30   
+24       4    Suverenita-blok J.Bobošíkové         17   
+25       6                    Věci veřejné         16   
+26      13  Komunistická str.Čech a Moravy         21   
+27       1         Unie pro sport a zdraví         14   
+28       6                    Věci veřejné         29   
+29      12                 Liberec občanům         21   
+..     ...                             ...        ...   
+395      6                    Věci veřejné         33   
+396      6                    Věci veřejné         12   
+397      2               Změna pro Liberec         33   
+398      2               Změna pro Liberec         14   
+399      7  Demokratická regionální strana          9   
+400      4    Suverenita-blok J.Bobošíkové          8   
+401      3    Občanská demokratická strana         15   
+402     13  Komunistická str.Čech a Moravy          7   
+403      6                    Věci veřejné         35   
+404     13  Komunistická str.Čech a Moravy          6   
+405      8    Česká str.sociálně demokrat.         13   
+406      2               Změna pro Liberec         29   
+407      6                    Věci veřejné         36   
+408      6                    Věci veřejné         25   
+409      9      SOS - Liberecký zastupitel          7   
+410      3    Občanská demokratická strana         23   
+411      9      SOS - Liberecký zastupitel         27   
+412      3    Občanská demokratická strana         31   
+413      8    Česká str.sociálně demokrat.         18   
+414      1         Unie pro sport a zdraví         12   
+415      4    Suverenita-blok J.Bobošíkové         36   
+416     12                 Liberec občanům         26   
+417     13  Komunistická str.Čech a Moravy          8   
+418      3    Občanská demokratická strana         14   
+419      7  Demokratická regionální strana          2   
+420      3    Občanská demokratická strana         36   
+421      6                    Věci veřejné         14   
+422      9      SOS - Liberecký zastupitel         20   
+423     11    Strana Práv Občanů ZEMANOVCI         17   
+424      6                    Věci veřejné          8   
 
-                                   Navrhujícístrana Politickápříslušnost  \
-       příjmení, jméno, tituly věk Navrhujícístrana Politickápříslušnost   
-0       Abel Daniel Tibor Ing.  46               NK                BEZPP   
-1                 Abrt Přemysl  38             SPOZ                BEZPP   
-2    Absolonová Kateřina MUDr.  44               NK                BEZPP   
-3              Andreasová Hana  27              DRS                BEZPP   
-4               Antuš Jan Mgr.  50              SOS                BEZPP   
-5               Baba Jan MVDr.  51              SOS                BEZPP   
-6      Bahníková Štefania Ing.  57              USZ                  USZ   
-7              Barthová Milena  58          KDU-ČSL                BEZPP   
-8          Barthová Petra Mgr.  39               NK                BEZPP   
-9          Bartoníček Miroslav  46               VV                   VV   
-10                  Bartoš Jan  66              DRS                  DRS   
-11         Baťka Oldřich RSDr.  63             KSČM                 KSČM   
-12               Baťová Simona  47               VV                   VV   
-13          Baxa Jaromír PhDr.  28               SZ                   SZ   
-14        Bayramová Petra Ing.  38         Suveren.                  SDŽ   
-15             Bělohlávek Jiří  60             KSČM                 KSČM   
-16      Beránek Stanislav Ing.  52              SOS                BEZPP   
-17               Beranová Jana  41               PB                BEZPP   
-18              Berki Jan Mgr.  29               NK                BEZPP   
-19           Bernát Pavel Ing.  49              ODS                  ODS   
-20               Berný Oldřich  31             SPOZ                 SPOZ   
-21               Bím Leoš Mgr.  36              USZ                BEZPP   
-22            Biňovcová Andrea  19         Suveren.                BEZPP   
-23                Bláha Štěpán  28              DRS                BEZPP   
-24              Boboková Marta  58         Suveren.                BEZPP   
-25                 Bock Julius  45               VV                BEZPP   
-26             Bodnarová Lenka  30             KSČM                BEZPP   
-27                 Boháč Karel  63              USZ                BEZPP   
-28              Borisová Marie  51               VV                BEZPP   
-29                Bošek Michal  32               NK                BEZPP   
-..                         ...  ..              ...                  ...   
-395                Víc Bohumil  56               VV                BEZPP   
-396     Vilhelmová Dagmar Mgr.  42               VV                   VV   
-397              Vimmer Ctibor  51               SZ                   SZ   
-398         Vízková Dagmar Bc.  37               NK                BEZPP   
-399            Vojáčková Radka  37              DRS                BEZPP   
-400          Vojčiniak Jan Bc.  24         Suveren.                BEZPP   
-401     Vojtíšek Vladimír Ing.  51              ODS                  ODS   
-402             Voldřich Milan  55             KSČM                 KSČM   
-403         Vondráček Miroslav  25               VV                BEZPP   
-404      Vondruška Josef JUDr.  62             KSČM                 KSČM   
-405     Vorel Lukáš Dipl.-Kfm.  33             ČSSD                 ČSSD   
-406       Vrabec Vladimír Mgr.  31               NK                BEZPP   
-407                  Vrána Jan  30               VV                   VV   
-408                 Vrána Jiří  62               VV                BEZPP   
-409     Vrána Václav pplk v.v.  67              SOS                  SOS   
-410   Vyhnisová Vladimíra Ing.  32              ODS                  ODS   
-411        Vyšohlídová Marcela  26              SOS                BEZPP   
-412          Wagnerová Václava  59              ODS                  ODS   
-413             Wildner Michal  29             ČSSD                 ČSSD   
-414          Zákoucký Vít Mgr.  32              USZ                BEZPP   
-415           Zavadilová Irena  34         Suveren.                BEZPP   
-416               Zavoral Jiří  35               NK                BEZPP   
-417          Zelinková Ludmila  63             KSČM                 KSČM   
-418            Zeman Lukáš Bc.  26              ODS                  ODS   
-419         Zeronik Pavel Mgr.  32              DRS                BEZPP   
-420           Zeroniková Lucie  32              ODS                  ODS   
-421           Zikmund Miroslav  51               VV                BEZPP   
-422              Zikmund Tomáš  42              SOS                  SOS   
-423                Žitný Luděk  44             SPOZ                 SPOZ   
-424               Žižková Jana  52               VV                   VV   
+       příjmení, jméno, tituly  Tituly       věk Navrhujícístrana  \
+0       Abel Daniel Tibor Ing.    Ing.        NK            BEZPP   
+1                 Abrt Přemysl              SPOZ            BEZPP   
+2    Absolonová Kateřina MUDr.   MUDr.        NK            BEZPP   
+3              Andreasová Hana               DRS            BEZPP   
+4               Antuš Jan Mgr.    Mgr.       SOS            BEZPP   
+5               Baba Jan MVDr.   MVDr.       SOS            BEZPP   
+6      Bahníková Štefania Ing.    Ing.       USZ              USZ   
+7              Barthová Milena           KDU-ČSL            BEZPP   
+8          Barthová Petra Mgr.    Mgr.        NK            BEZPP   
+9          Bartoníček Miroslav                VV               VV   
+10                  Bartoš Jan               DRS              DRS   
+11         Baťka Oldřich RSDr.              KSČM             KSČM   
+12               Baťová Simona                VV               VV   
+13          Baxa Jaromír PhDr.   PhDr.        SZ               SZ   
+14        Bayramová Petra Ing.    Ing.  Suveren.              SDŽ   
+15             Bělohlávek Jiří              KSČM             KSČM   
+16      Beránek Stanislav Ing.    Ing.       SOS            BEZPP   
+17               Beranová Jana                PB            BEZPP   
+18              Berki Jan Mgr.    Mgr.        NK            BEZPP   
+19           Bernát Pavel Ing.    Ing.       ODS              ODS   
+20               Berný Oldřich              SPOZ             SPOZ   
+21               Bím Leoš Mgr.    Mgr.       USZ            BEZPP   
+22            Biňovcová Andrea          Suveren.            BEZPP   
+23                Bláha Štěpán               DRS            BEZPP   
+24              Boboková Marta          Suveren.            BEZPP   
+25                 Bock Julius                VV            BEZPP   
+26             Bodnarová Lenka              KSČM            BEZPP   
+27                 Boháč Karel               USZ            BEZPP   
+28              Borisová Marie                VV            BEZPP   
+29                Bošek Michal                NK            BEZPP   
+..                         ...     ...       ...              ...   
+395                Víc Bohumil                VV            BEZPP   
+396     Vilhelmová Dagmar Mgr.    Mgr.        VV               VV   
+397              Vimmer Ctibor                SZ               SZ   
+398         Vízková Dagmar Bc.     Bc.        NK            BEZPP   
+399            Vojáčková Radka               DRS            BEZPP   
+400          Vojčiniak Jan Bc.     Bc.  Suveren.            BEZPP   
+401     Vojtíšek Vladimír Ing.    Ing.       ODS              ODS   
+402             Voldřich Milan              KSČM             KSČM   
+403         Vondráček Miroslav                VV            BEZPP   
+404      Vondruška Josef JUDr.   JUDr.      KSČM             KSČM   
+405     Vorel Lukáš Dipl.-Kfm.              ČSSD             ČSSD   
+406       Vrabec Vladimír Mgr.    Mgr.        NK            BEZPP   
+407                  Vrána Jan                VV               VV   
+408                 Vrána Jiří                VV            BEZPP   
+409     Vrána Václav pplk v.v.               SOS              SOS   
+410   Vyhnisová Vladimíra Ing.    Ing.       ODS              ODS   
+411        Vyšohlídová Marcela               SOS            BEZPP   
+412          Wagnerová Václava               ODS              ODS   
+413             Wildner Michal              ČSSD             ČSSD   
+414          Zákoucký Vít Mgr.    Mgr.       USZ            BEZPP   
+415           Zavadilová Irena          Suveren.            BEZPP   
+416               Zavoral Jiří                NK            BEZPP   
+417          Zelinková Ludmila              KSČM             KSČM   
+418            Zeman Lukáš Bc.     Bc.       ODS              ODS   
+419         Zeronik Pavel Mgr.    Mgr.       DRS            BEZPP   
+420           Zeroniková Lucie               ODS              ODS   
+421           Zikmund Miroslav                VV            BEZPP   
+422              Zikmund Tomáš               SOS              SOS   
+423                Žitný Luděk              SPOZ             SPOZ   
+424               Žižková Jana                VV               VV   
 
-     Hlasy        Pořadízvolení/náhradníka Mandát  
-      abs.    v % Pořadízvolení/náhradníka Mandát  
-0    6 191    246                        9      -  
-1      209    224                        -      -  
-2    8 467    337                        2      *  
-3    1 140    240                        -      -  
-4    1 184    272                        -      -  
-5      783    179                        -      -  
-6    2 038    240                       22      -  
-7    3 396    208                       28      -  
-8    6 543    260                        6      -  
-9    2 182    246                       12      -  
-10     976    205                        -      -  
-11   2 154    255                       14      -  
-12   2 511    283                        3      -  
-13   7 285    290                        7      *  
-14     728    306                        -      -  
-15   2 228    264                        8      -  
-16   1 021    234                        -      -  
-17     752  10000                        -      -  
-18   4 552    278                        4      -  
-19   5 766    267                        8      *  
-20     388    415                        -      -  
-21   2 036    240                       27      -  
-22     573    241                        -      -  
-23     976    205                        -      -  
-24     609    256                        -      -  
-25   2 140    241                       13      -  
-26   2 127    252                       18      -  
-27   1 945    229                       12      -  
-28   2 036    230                       26      -  
-29   4 032    246                       15      -  
-..     ...    ...                      ...    ...  
-395  1 935    218                       30      -  
-396  2 356    266                        9      -  
-397  5 783    230                       23      -  
-398  6 445    256                        4      -  
-399  1 389    292                        -      -  
-400    688    289                        -      -  
-401  5 584    258                        7      -  
-402  2 258    268                        4      -  
-403  1 902    215                       32      -  
-404  2 305    273                        3      -  
-405  5 424    264                        6      -  
-406  6 209    247                       19      -  
-407  1 950    220                       33      -  
-408  2 187    247                       22      -  
-409  1 066    244                        -      -  
-410  5 576    258                       15      -  
-411    934    214                        -      -  
-412  5 254    243                       23      -  
-413  5 269    257                       11      -  
-414  2 194    259                       10      -  
-415    527    221                        -      -  
-416  3 897    238                       20      -  
-417  2 210    262                        5      -  
-418  5 610    259                        6      -  
-419  1 608    338                        -      -  
-420  5 077    235                       28      -  
-421  2 284    258                       11      -  
-422    926    212                        -      -  
-423    244    261                        -      -  
-424  2 403    271                        5      -  
+    Politickápříslušnost   abs. v % Pořadízvolení/náhradníka  Mandát  
+0                  6 191    246   9                        -     NaN  
+1                    209    224   -                        -     NaN  
+2                  8 467    337   2                        *     NaN  
+3                  1 140    240   -                        -     NaN  
+4                  1 184    272   -                        -     NaN  
+5                    783    179   -                        -     NaN  
+6                  2 038    240  22                        -     NaN  
+7                  3 396    208  28                        -     NaN  
+8                  6 543    260   6                        -     NaN  
+9                  2 182    246  12                        -     NaN  
+10                   976    205   -                        -     NaN  
+11                 2 154    255  14                        -     NaN  
+12                 2 511    283   3                        -     NaN  
+13                 7 285    290   7                        *     NaN  
+14                   728    306   -                        -     NaN  
+15                 2 228    264   8                        -     NaN  
+16                 1 021    234   -                        -     NaN  
+17                   752  10000   -                        -     NaN  
+18                 4 552    278   4                        -     NaN  
+19                 5 766    267   8                        *     NaN  
+20                   388    415   -                        -     NaN  
+21                 2 036    240  27                        -     NaN  
+22                   573    241   -                        -     NaN  
+23                   976    205   -                        -     NaN  
+24                   609    256   -                        -     NaN  
+25                 2 140    241  13                        -     NaN  
+26                 2 127    252  18                        -     NaN  
+27                 1 945    229  12                        -     NaN  
+28                 2 036    230  26                        -     NaN  
+29                 4 032    246  15                        -     NaN  
+..                   ...    ...  ..                      ...     ...  
+395                1 935    218  30                        -     NaN  
+396                2 356    266   9                        -     NaN  
+397                5 783    230  23                        -     NaN  
+398                6 445    256   4                        -     NaN  
+399                1 389    292   -                        -     NaN  
+400                  688    289   -                        -     NaN  
+401                5 584    258   7                        -     NaN  
+402                2 258    268   4                        -     NaN  
+403                1 902    215  32                        -     NaN  
+404                2 305    273   3                        -     NaN  
+405                5 424    264   6                        -     NaN  
+406                6 209    247  19                        -     NaN  
+407                1 950    220  33                        -     NaN  
+408                2 187    247  22                        -     NaN  
+409                1 066    244   -                        -     NaN  
+410                5 576    258  15                        -     NaN  
+411                  934    214   -                        -     NaN  
+412                5 254    243  23                        -     NaN  
+413                5 269    257  11                        -     NaN  
+414                2 194    259  10                        -     NaN  
+415                  527    221   -                        -     NaN  
+416                3 897    238  20                        -     NaN  
+417                2 210    262   5                        -     NaN  
+418                5 610    259   6                        -     NaN  
+419                1 608    338   -                        -     NaN  
+420                5 077    235  28                        -     NaN  
+421                2 284    258  11                        -     NaN  
+422                  926    212   -                        -     NaN  
+423                  244    261   -                        -     NaN  
+424                2 403    271   5                        -     NaN  
 
-[425 rows x 11 columns]"
-2,"    Kandidátní listina                                  Kandidát  \
-                 číslo                           název poř.číslo   
-0                    7    Str.pro otevřenou společnost        31   
-1                    4               Změna pro Liberec         6   
-2                   10        Strana svobodných občanů        30   
-3                    3   Starostové pro Liberecký kraj        22   
-4                   15              PRO Sport a Zdraví        38   
-5                    8                          TOP 09        31   
-6                   14              Strana Práv Občanů        38   
-7                    8                          TOP 09        15   
-8                    6             KDU-ČSL a nezávislí        26   
-9                    5          Úsvit přímé demokracie         5   
-10                   6             KDU-ČSL a nezávislí        28   
-11                   7    Str.pro otevřenou společnost        16   
-12                   2    Česká str.sociálně demokrat.        17   
-13                  13                        ANO 2011         1   
-14                   4               Změna pro Liberec         2   
-15                   3   Starostové pro Liberecký kraj        30   
-16                  13                        ANO 2011        34   
-17                   8                          TOP 09        24   
-18                   7    Str.pro otevřenou společnost        10   
-19                   7    Str.pro otevřenou společnost        20   
-20                  11  Komunistická str.Čech a Moravy         5   
-21                   1   Nový směr-společná kandidátka        31   
-22                   3   Starostové pro Liberecký kraj         2   
-23                   2    Česká str.sociálně demokrat.        30   
-24                  14              Strana Práv Občanů         3   
-25                   1   Nový směr-společná kandidátka         4   
-26                   7    Str.pro otevřenou společnost        28   
-27                   3   Starostové pro Liberecký kraj        20   
-28                   1   Nový směr-společná kandidátka        26   
-29                  10        Strana svobodných občanů        35   
-..                 ...                             ...       ...   
-548                  1   Nový směr-společná kandidátka        22   
-549                 10        Strana svobodných občanů         4   
-550                  2    Česká str.sociálně demokrat.         8   
-551                  1   Nový směr-společná kandidátka        10   
-552                 15              PRO Sport a Zdraví        17   
-553                 12    Občanská demokratická strana        30   
-554                  4               Změna pro Liberec        15   
-555                  5          Úsvit přímé demokracie        13   
-556                 12    Občanská demokratická strana        22   
-557                  2    Česká str.sociálně demokrat.        24   
-558                 13                        ANO 2011        24   
-559                  5          Úsvit přímé demokracie         9   
-560                 15              PRO Sport a Zdraví        16   
-561                 13                        ANO 2011        14   
-562                  3   Starostové pro Liberecký kraj         4   
-563                 13                        ANO 2011        39   
-564                  7    Str.pro otevřenou společnost        39   
-565                 12    Občanská demokratická strana         4   
-566                  6             KDU-ČSL a nezávislí        38   
-567                  1   Nový směr-společná kandidátka        17   
-568                  3   Starostové pro Liberecký kraj        21   
-569                 13                        ANO 2011        12   
-570                 11  Komunistická str.Čech a Moravy         9   
-571                 13                        ANO 2011        13   
-572                  6             KDU-ČSL a nezávislí        12   
-573                 10        Strana svobodných občanů        20   
-574                 13                        ANO 2011         7   
-575                 12    Občanská demokratická strana        36   
-576                 13                        ANO 2011        16   
-577                  3   Starostové pro Liberecký kraj        32   
+[425 rows x 12 columns]"
+2,"     číslo                           název  poř.číslo  \
+0        7    Str.pro otevřenou společnost         31   
+1        4               Změna pro Liberec          6   
+2       10        Strana svobodných občanů         30   
+3        3   Starostové pro Liberecký kraj         22   
+4       15              PRO Sport a Zdraví         38   
+5        8                          TOP 09         31   
+6       14              Strana Práv Občanů         38   
+7        8                          TOP 09         15   
+8        6             KDU-ČSL a nezávislí         26   
+9        5          Úsvit přímé demokracie          5   
+10       6             KDU-ČSL a nezávislí         28   
+11       7    Str.pro otevřenou společnost         16   
+12       2    Česká str.sociálně demokrat.         17   
+13      13                        ANO 2011          1   
+14       4               Změna pro Liberec          2   
+15       3   Starostové pro Liberecký kraj         30   
+16      13                        ANO 2011         34   
+17       8                          TOP 09         24   
+18       7    Str.pro otevřenou společnost         10   
+19       7    Str.pro otevřenou společnost         20   
+20      11  Komunistická str.Čech a Moravy          5   
+21       1   Nový směr-společná kandidátka         31   
+22       3   Starostové pro Liberecký kraj          2   
+23       2    Česká str.sociálně demokrat.         30   
+24      14              Strana Práv Občanů          3   
+25       1   Nový směr-společná kandidátka          4   
+26       7    Str.pro otevřenou společnost         28   
+27       3   Starostové pro Liberecký kraj         20   
+28       1   Nový směr-společná kandidátka         26   
+29      10        Strana svobodných občanů         35   
+..     ...                             ...        ...   
+548      1   Nový směr-společná kandidátka         22   
+549     10        Strana svobodných občanů          4   
+550      2    Česká str.sociálně demokrat.          8   
+551      1   Nový směr-společná kandidátka         10   
+552     15              PRO Sport a Zdraví         17   
+553     12    Občanská demokratická strana         30   
+554      4               Změna pro Liberec         15   
+555      5          Úsvit přímé demokracie         13   
+556     12    Občanská demokratická strana         22   
+557      2    Česká str.sociálně demokrat.         24   
+558     13                        ANO 2011         24   
+559      5          Úsvit přímé demokracie          9   
+560     15              PRO Sport a Zdraví         16   
+561     13                        ANO 2011         14   
+562      3   Starostové pro Liberecký kraj          4   
+563     13                        ANO 2011         39   
+564      7    Str.pro otevřenou společnost         39   
+565     12    Občanská demokratická strana          4   
+566      6             KDU-ČSL a nezávislí         38   
+567      1   Nový směr-společná kandidátka         17   
+568      3   Starostové pro Liberecký kraj         21   
+569     13                        ANO 2011         12   
+570     11  Komunistická str.Čech a Moravy          9   
+571     13                        ANO 2011         13   
+572      6             KDU-ČSL a nezávislí         12   
+573     10        Strana svobodných občanů         20   
+574     13                        ANO 2011          7   
+575     12    Občanská demokratická strana         36   
+576     13                        ANO 2011         16   
+577      3   Starostové pro Liberecký kraj         32   
 
-                                     Navrhujícístrana Politickápříslušnost  \
-         příjmení, jméno, tituly věk Navrhujícístrana Politickápříslušnost   
-0             Absolonová Daniela  22              SOS                BEZPP   
-1      Absolonová Kateřina MUDr.  48            Změna                BEZPP   
-2                 Adamec Antonín  59         Svobodní                BEZPP   
-3                Babóová Markéta  34              SLK                BEZPP   
-4        Bahníková Štefania Ing.  61           PRO ZS                  USZ   
-5                    Balcar Jiří  56           TOP 09               TOP 09   
-6                 Balogová Mária  75              SPO                BEZPP   
-7       Barreto José Ricardo Bc.  25           TOP 09               TOP 09   
-8                Barthová Milena  62          KDU-ČSL                BEZPP   
-9                     Bartoš Jan  70            Úsvit                BEZPP   
-10                   Bartoš Jiří  36          KDU-ČSL              KDU-ČSL   
-11              Bartošová Ružena  61              SOS                BEZPP   
-12         Bartošová Zuzana Ing.  43             ČSSD                 ČSSD   
-13               Batthyány Tibor  36              ANO                  ANO   
-14      Baxa Jaromír PhDr. Ph.D.  32           Zelení               Zelení   
-15             Bažant Pavel Ing.  56              SLK                BEZPP   
-16             Bednář Pavel Ing.  46              ANO                  ANO   
-17                       Bek Jan  54           TOP 09               TOP 09   
-18                 Belková Iveta  49              SOS                BEZPP   
-19                 Belková Lucie  28              SOS                BEZPP   
-20                  Beneš Martin  42             KSČM                BEZPP   
-21              Beranová Marcela  48              NOS                BEZPP   
-22                Berki Jan Mgr.  33              SLK                BEZPP   
-23               Bernášek Zdeněk  25             ČSSD                 ČSSD   
-24            Berný Oldřich Mgr.  35              SPO                  SPO   
-25                Bezucha Michal  26              NOS                  NOS   
-26               Bielaková Lenka  25              SOS                BEZPP   
-27                 Bílková Iveta  45              SLK                BEZPP   
-28                Bitterlich Jan  27              NOS                BEZPP   
-29                 Bock Miroslav  36         Svobodní             Svobodní   
-..                           ...  ..              ...                  ...   
-548               Voňka Miroslav  49              NOS                BEZPP   
-549                  Vorel David  30         Svobodní             Svobodní   
-550       Vorel Lukáš Dipl.-Kfm.  37             ČSSD                 ČSSD   
-551                   Vozák Jiří  51              NOS                BEZPP   
-552        Všetičková Soňa MUDr.  44           PRO ZS                BEZPP   
-553     Vyhnisová Vladimíra Ing.  36              ODS                  ODS   
-554           Vytiska Jiří MUDr.  63            Změna                BEZPP   
-555                Walter Viktor  60            Úsvit                BEZPP   
-556              Wencel Kristián  22              ODS                  ODS   
-557               Wildner Michal  33             ČSSD                 ČSSD   
-558         Zahradník Radek Ing.  36              ANO                BEZPP   
-559               Záhumenský Jan  49            Úsvit                BEZPP   
-560            Zákoucký Vít Mgr.  36           PRO ZS                BEZPP   
-561                Záleský Jakub  37              ANO                BEZPP   
-562  Zámečník Jaroslav Ing. CSc.  48              SLK                BEZPP   
-563     Zaplatílek Vladimír Ing.  65              ANO                BEZPP   
-564             Zárybnická Marie  75              SOS                BEZPP   
-565       Zástěra Svatopluk Ing.  46              ODS                  ODS   
-566           Zatloukalová Marie  51          KDU-ČSL                BEZPP   
-567          Zavadský Pavel Ing.  55              NOS                BEZPP   
-568             Zavoral Jiří Bc.  39              SLK                BEZPP   
-569                   Zeler Aleš  43              ANO                  ANO   
-570            Zelinková Ludmila  67             KSČM                 KSČM   
-571                  Zeman Filip  34              ANO                BEZPP   
-572                Zemanová Hana  43               NK                BEZPP   
-573                Zikmund Tomáš  46         Svobodní                BEZPP   
-574                  Zobín Jakub  29              ANO                  ANO   
-575                   Zvára Petr  40              ODS                  ODS   
-576                 Žák Jindřich  57              ANO                BEZPP   
-577                Žůrková Irena  45              SLK                BEZPP   
+         příjmení, jméno, tituly        Tituly       věk Navrhujícístrana  \
+0             Absolonová Daniela                     SOS            BEZPP   
+1      Absolonová Kateřina MUDr.         MUDr.     Změna            BEZPP   
+2                 Adamec Antonín                Svobodní            BEZPP   
+3                Babóová Markéta                     SLK            BEZPP   
+4        Bahníková Štefania Ing.          Ing.    PRO ZS              USZ   
+5                    Balcar Jiří                  TOP 09           TOP 09   
+6                 Balogová Mária                     SPO            BEZPP   
+7       Barreto José Ricardo Bc.           Bc.    TOP 09           TOP 09   
+8                Barthová Milena                 KDU-ČSL            BEZPP   
+9                     Bartoš Jan                   Úsvit            BEZPP   
+10                   Bartoš Jiří                 KDU-ČSL          KDU-ČSL   
+11              Bartošová Ružena                     SOS            BEZPP   
+12         Bartošová Zuzana Ing.          Ing.      ČSSD             ČSSD   
+13               Batthyány Tibor                     ANO              ANO   
+14      Baxa Jaromír PhDr. Ph.D.   PhDr. Ph.D.    Zelení           Zelení   
+15             Bažant Pavel Ing.          Ing.       SLK            BEZPP   
+16             Bednář Pavel Ing.          Ing.       ANO              ANO   
+17                       Bek Jan                  TOP 09           TOP 09   
+18                 Belková Iveta                     SOS            BEZPP   
+19                 Belková Lucie                     SOS            BEZPP   
+20                  Beneš Martin                    KSČM            BEZPP   
+21              Beranová Marcela                     NOS            BEZPP   
+22                Berki Jan Mgr.          Mgr.       SLK            BEZPP   
+23               Bernášek Zdeněk                    ČSSD             ČSSD   
+24            Berný Oldřich Mgr.          Mgr.       SPO              SPO   
+25                Bezucha Michal                     NOS              NOS   
+26               Bielaková Lenka                     SOS            BEZPP   
+27                 Bílková Iveta                     SLK            BEZPP   
+28                Bitterlich Jan                     NOS            BEZPP   
+29                 Bock Miroslav                Svobodní         Svobodní   
+..                           ...           ...       ...              ...   
+548               Voňka Miroslav                     NOS            BEZPP   
+549                  Vorel David                Svobodní         Svobodní   
+550       Vorel Lukáš Dipl.-Kfm.                    ČSSD             ČSSD   
+551                   Vozák Jiří                     NOS            BEZPP   
+552        Všetičková Soňa MUDr.         MUDr.    PRO ZS            BEZPP   
+553     Vyhnisová Vladimíra Ing.          Ing.       ODS              ODS   
+554           Vytiska Jiří MUDr.         MUDr.     Změna            BEZPP   
+555                Walter Viktor                   Úsvit            BEZPP   
+556              Wencel Kristián                     ODS              ODS   
+557               Wildner Michal                    ČSSD             ČSSD   
+558         Zahradník Radek Ing.          Ing.       ANO            BEZPP   
+559               Záhumenský Jan                   Úsvit            BEZPP   
+560            Zákoucký Vít Mgr.          Mgr.    PRO ZS            BEZPP   
+561                Záleský Jakub                     ANO            BEZPP   
+562  Zámečník Jaroslav Ing. CSc.     Ing. CSc.       SLK            BEZPP   
+563     Zaplatílek Vladimír Ing.          Ing.       ANO            BEZPP   
+564             Zárybnická Marie                     SOS            BEZPP   
+565       Zástěra Svatopluk Ing.          Ing.       ODS              ODS   
+566           Zatloukalová Marie                 KDU-ČSL            BEZPP   
+567          Zavadský Pavel Ing.          Ing.       NOS            BEZPP   
+568             Zavoral Jiří Bc.           Bc.       SLK            BEZPP   
+569                   Zeler Aleš                     ANO              ANO   
+570            Zelinková Ludmila                    KSČM             KSČM   
+571                  Zeman Filip                     ANO            BEZPP   
+572                Zemanová Hana                      NK            BEZPP   
+573                Zikmund Tomáš                Svobodní            BEZPP   
+574                  Zobín Jakub                     ANO              ANO   
+575                   Zvára Petr                     ODS              ODS   
+576                 Žák Jindřich                     ANO            BEZPP   
+577                Žůrková Irena                     SLK            BEZPP   
 
-     Hlasy      Pořadízvolení/náhradníka Mandát  
-      abs.  v % Pořadízvolení/náhradníka Mandát  
-0      145  239                        -      -  
-1    7 449  280                        6      *  
-2      463  232                        -      -  
-3    4 215  243                       14      -  
-4      697  200                        -      -  
-5    1 302  228                       29      -  
-6       48  238                        -      -  
-7    1 453  255                       14      -  
-8      526  219                        -      -  
-9      401  276                        -      -  
-10     665  277                        -      -  
-11     153  253                        -      -  
-12   2 675  261                       13      -  
-13   5 594  297                        1      *  
-14   7 656  288                        2      *  
-15   4 163  240                       22      -  
-16   4 501  239                       25      -  
-17   1 347  236                       22      -  
-18     169  279                        -      -  
-19     140  231                        -      -  
-20   1 578  270                        3      -  
-21     643  227                        -      -  
-22   5 005  289                        5      *  
-23   2 503  244                       26      -  
-24      92  456                        -      -  
-25     811  286                        -      -  
-26     141  233                        -      -  
-27   4 301  248                       12      -  
-28     662  234                        -      -  
-29     442  222                        -      -  
-..     ...  ...                      ...    ...  
-548    664  234                        -      -  
-549    528  265                        -      -  
-550  2 780  271                        4      -  
-551    841  297                        -      -  
-552    894  256                        -      -  
-553  1 284  244                       28      -  
-554  7 105  267                        3      -  
-555    366  252                        -      -  
-556  1 303  247                       20      -  
-557  2 572  251                       20      -  
-558  4 801  255                       15      -  
-559    386  266                        -      -  
-560    950  272                        -      -  
-561  4 906  260                        5      -  
-562  5 121  296                        3      *  
-563  3 833  203                       30      -  
-564    130  215                        -      -  
-565  1 472  279                        5      -  
-566    466  194                        -      -  
-567    676  239                        -      -  
-568  4 332  250                       13      -  
-569  4 942  262                        3      -  
-570  1 526  261                        7      -  
-571  4 958  263                        4      -  
-572    691  288                        -      -  
-573    512  257                        -      -  
-574  5 083  270                        7      *  
-575  1 192  226                       34      -  
-576  4 877  259                        7      -  
-577  4 116  238                       24      -  
+    Politickápříslušnost  abs. v % Pořadízvolení/náhradníka  Mandát  
+0                    145   239   -                        -     NaN  
+1                  7 449   280   6                        *     NaN  
+2                    463   232   -                        -     NaN  
+3                  4 215   243  14                        -     NaN  
+4                    697   200   -                        -     NaN  
+5                  1 302   228  29                        -     NaN  
+6                     48   238   -                        -     NaN  
+7                  1 453   255  14                        -     NaN  
+8                    526   219   -                        -     NaN  
+9                    401   276   -                        -     NaN  
+10                   665   277   -                        -     NaN  
+11                   153   253   -                        -     NaN  
+12                 2 675   261  13                        -     NaN  
+13                 5 594   297   1                        *     NaN  
+14                 7 656   288   2                        *     NaN  
+15                 4 163   240  22                        -     NaN  
+16                 4 501   239  25                        -     NaN  
+17                 1 347   236  22                        -     NaN  
+18                   169   279   -                        -     NaN  
+19                   140   231   -                        -     NaN  
+20                 1 578   270   3                        -     NaN  
+21                   643   227   -                        -     NaN  
+22                 5 005   289   5                        *     NaN  
+23                 2 503   244  26                        -     NaN  
+24                    92   456   -                        -     NaN  
+25                   811   286   -                        -     NaN  
+26                   141   233   -                        -     NaN  
+27                 4 301   248  12                        -     NaN  
+28                   662   234   -                        -     NaN  
+29                   442   222   -                        -     NaN  
+..                   ...   ...  ..                      ...     ...  
+548                  664   234   -                        -     NaN  
+549                  528   265   -                        -     NaN  
+550                2 780   271   4                        -     NaN  
+551                  841   297   -                        -     NaN  
+552                  894   256   -                        -     NaN  
+553                1 284   244  28                        -     NaN  
+554                7 105   267   3                        -     NaN  
+555                  366   252   -                        -     NaN  
+556                1 303   247  20                        -     NaN  
+557                2 572   251  20                        -     NaN  
+558                4 801   255  15                        -     NaN  
+559                  386   266   -                        -     NaN  
+560                  950   272   -                        -     NaN  
+561                4 906   260   5                        -     NaN  
+562                5 121   296   3                        *     NaN  
+563                3 833   203  30                        -     NaN  
+564                  130   215   -                        -     NaN  
+565                1 472   279   5                        -     NaN  
+566                  466   194   -                        -     NaN  
+567                  676   239   -                        -     NaN  
+568                4 332   250  13                        -     NaN  
+569                4 942   262   3                        -     NaN  
+570                1 526   261   7                        -     NaN  
+571                4 958   263   4                        -     NaN  
+572                  691   288   -                        -     NaN  
+573                  512   257   -                        -     NaN  
+574                5 083   270   7                        *     NaN  
+575                1 192   226  34                        -     NaN  
+576                4 877   259   7                        -     NaN  
+577                4 116   238  24                        -     NaN  
 
-[578 rows x 11 columns]"
-3,"    Kandidátní listina                                  Kandidát  \
-                 číslo                           název poř.číslo   
-0                   10               Změna pro Liberec        10   
-1                    5                        ANO 2011         3   
-2                    7  PRO 2016 s podporou Svobodných        19   
-3                    8                   Liberec Plus+        37   
-4                   12    Česká str.sociálně demokrat.        28   
-5                    8                   Liberec Plus+         5   
-6                    5                        ANO 2011        26   
-7                    2  Svob.a př.dem.-T.Okamura (SPD)         8   
-8                    2  Svob.a př.dem.-T.Okamura (SPD)        38   
-9                   12    Česká str.sociálně demokrat.        35   
-10                   3   Starostové pro Liberecký kraj        35   
-11                   6   Liberec otevřený lidem - LOL!        31   
-12                   6   Liberec otevřený lidem - LOL!         5   
-13                   7  PRO 2016 s podporou Svobodných         1   
-14                   6   Liberec otevřený lidem - LOL!         1   
-15                   2  Svob.a př.dem.-T.Okamura (SPD)        16   
-16                   6   Liberec otevřený lidem - LOL!        26   
-17                   9  Komunistická str.Čech a Moravy        22   
-18                   7  PRO 2016 s podporou Svobodných         7   
-19                  10               Změna pro Liberec        24   
-20                  11           Strana soukromníků ČR        12   
-21                   1         Unie pro sport a zdraví         8   
-22                   3   Starostové pro Liberecký kraj         5   
-23                  12    Česká str.sociálně demokrat.        23   
-24                   8                   Liberec Plus+        10   
-25                   3   Starostové pro Liberecký kraj        24   
-26                   8                   Liberec Plus+        28   
-27                   5                        ANO 2011        37   
-28                   2  Svob.a př.dem.-T.Okamura (SPD)        32   
-29                   7  PRO 2016 s podporou Svobodných        32   
-..                 ...                             ...       ...   
-433                  6   Liberec otevřený lidem - LOL!         9   
-434                  2  Svob.a př.dem.-T.Okamura (SPD)         3   
-435                  9  Komunistická str.Čech a Moravy        33   
-436                  6   Liberec otevřený lidem - LOL!        39   
-437                 10               Změna pro Liberec        13   
-438                 11           Strana soukromníků ČR        16   
-439                  3   Starostové pro Liberecký kraj        17   
-440                  6   Liberec otevřený lidem - LOL!         6   
-441                  2  Svob.a př.dem.-T.Okamura (SPD)        28   
-442                 11           Strana soukromníků ČR        34   
-443                  6   Liberec otevřený lidem - LOL!        33   
-444                  7  PRO 2016 s podporou Svobodných        22   
-445                  2  Svob.a př.dem.-T.Okamura (SPD)        29   
-446                  5                        ANO 2011        23   
-447                  7  PRO 2016 s podporou Svobodných        18   
-448                  3   Starostové pro Liberecký kraj         1   
-449                  3   Starostové pro Liberecký kraj        14   
-450                 12    Česká str.sociálně demokrat.        31   
-451                  5                        ANO 2011        11   
-452                  7  PRO 2016 s podporou Svobodných        36   
-453                  2  Svob.a př.dem.-T.Okamura (SPD)        26   
-454                  1         Unie pro sport a zdraví        12   
-455                  7  PRO 2016 s podporou Svobodných        30   
-456                 11           Strana soukromníků ČR         8   
-457                  9  Komunistická str.Čech a Moravy        14   
-458                 12    Česká str.sociálně demokrat.        18   
-459                  3   Starostové pro Liberecký kraj        10   
-460                  7  PRO 2016 s podporou Svobodných        25   
-461                  4    Občanská demokratická strana         1   
-462                  4    Občanská demokratická strana        12   
+[578 rows x 12 columns]"
+3,"     číslo                           název  poř.číslo  \
+0       10               Změna pro Liberec         10   
+1        5                        ANO 2011          3   
+2        7  PRO 2016 s podporou Svobodných         19   
+3        8                   Liberec Plus+         37   
+4       12    Česká str.sociálně demokrat.         28   
+5        8                   Liberec Plus+          5   
+6        5                        ANO 2011         26   
+7        2  Svob.a př.dem.-T.Okamura (SPD)          8   
+8        2  Svob.a př.dem.-T.Okamura (SPD)         38   
+9       12    Česká str.sociálně demokrat.         35   
+10       3   Starostové pro Liberecký kraj         35   
+11       6   Liberec otevřený lidem - LOL!         31   
+12       6   Liberec otevřený lidem - LOL!          5   
+13       7  PRO 2016 s podporou Svobodných          1   
+14       6   Liberec otevřený lidem - LOL!          1   
+15       2  Svob.a př.dem.-T.Okamura (SPD)         16   
+16       6   Liberec otevřený lidem - LOL!         26   
+17       9  Komunistická str.Čech a Moravy         22   
+18       7  PRO 2016 s podporou Svobodných          7   
+19      10               Změna pro Liberec         24   
+20      11           Strana soukromníků ČR         12   
+21       1         Unie pro sport a zdraví          8   
+22       3   Starostové pro Liberecký kraj          5   
+23      12    Česká str.sociálně demokrat.         23   
+24       8                   Liberec Plus+         10   
+25       3   Starostové pro Liberecký kraj         24   
+26       8                   Liberec Plus+         28   
+27       5                        ANO 2011         37   
+28       2  Svob.a př.dem.-T.Okamura (SPD)         32   
+29       7  PRO 2016 s podporou Svobodných         32   
+..     ...                             ...        ...   
+433      6   Liberec otevřený lidem - LOL!          9   
+434      2  Svob.a př.dem.-T.Okamura (SPD)          3   
+435      9  Komunistická str.Čech a Moravy         33   
+436      6   Liberec otevřený lidem - LOL!         39   
+437     10               Změna pro Liberec         13   
+438     11           Strana soukromníků ČR         16   
+439      3   Starostové pro Liberecký kraj         17   
+440      6   Liberec otevřený lidem - LOL!          6   
+441      2  Svob.a př.dem.-T.Okamura (SPD)         28   
+442     11           Strana soukromníků ČR         34   
+443      6   Liberec otevřený lidem - LOL!         33   
+444      7  PRO 2016 s podporou Svobodných         22   
+445      2  Svob.a př.dem.-T.Okamura (SPD)         29   
+446      5                        ANO 2011         23   
+447      7  PRO 2016 s podporou Svobodných         18   
+448      3   Starostové pro Liberecký kraj          1   
+449      3   Starostové pro Liberecký kraj         14   
+450     12    Česká str.sociálně demokrat.         31   
+451      5                        ANO 2011         11   
+452      7  PRO 2016 s podporou Svobodných         36   
+453      2  Svob.a př.dem.-T.Okamura (SPD)         26   
+454      1         Unie pro sport a zdraví         12   
+455      7  PRO 2016 s podporou Svobodných         30   
+456     11           Strana soukromníků ČR          8   
+457      9  Komunistická str.Čech a Moravy         14   
+458     12    Česká str.sociálně demokrat.         18   
+459      3   Starostové pro Liberecký kraj         10   
+460      7  PRO 2016 s podporou Svobodných         25   
+461      4    Občanská demokratická strana          1   
+462      4    Občanská demokratická strana         12   
 
-                                          Navrhujícístrana  \
-              příjmení, jméno, tituly věk Navrhujícístrana   
-0           Absolonová Kateřina MUDr.  52           Zelení   
-1                Balašová Renáta Mgr.  42              ANO   
-2                      Ballaty Daniel  25         Svobodní   
-3                          Bára Milan  63               NK   
-4                    Bartáková Milada  74             ČSSD   
-5                   Bartoň Zdeněk Bc.  51               NK   
-6               Bartoníčková Veronika  18              ANO   
-7                          Bartoš Jan  74              SPD   
-8                  Bartošová Veronika  19              SPD   
-9               Bartošová Zuzana Ing.  47             ČSSD   
-10               Bartůšek Ondřej Mgr.  34              SLK   
-11                       Basl Vojtěch  35               NK   
-12              Baslová Petra Alžběta  35              TJ.   
-13                    Batthyány Tibor  40          PRO2016   
-14           Baxa Jaromír PhDr. Ph.D.  36              TJ.   
-15                     Beck Vlastimil  68              SPD   
-16   Beckert Michal Dipl.-Übers. (FH)  36               NK   
-17                    Bělohlávek Jiří  68             KSČM   
-18                       Benek Martin  20         Svobodní   
-19                Benešová Radka Mgr.  42           Zelení   
-20                         Berčo Jiří  42      Soukromníci   
-21                       Berka Martin  44              USZ   
-22               Berki Jan Mgr. Ph.D.  37              SLK   
-23                    Bernášek Zdeněk  29             ČSSD   
-24                     Bezucha Michal  30              NOS   
-25                      Bílková Iveta  49              SLK   
-26                     Bitterlich Jan  31               NK   
-27                         Bláha Jiří  57              ANO   
-28                     Boček Alexandr  49              SPD   
-29                     Borkovec Lukáš  28          PRO2016   
-..                                ...  ..              ...   
-433                  Vorel Filip Mgr.  37               NK   
-434             Vostenak John Bc. MBA  61              SPD   
-435                  Votoček Jaroslav  66             KSČM   
-436                       Votruba Jan  66               NK   
-437              Vrabec Vladimír Mgr.  39           Zelení   
-438                    Vrba Jan JUDr.  39      Soukromníci   
-439                Vytiska Jakub Ing.  33              SLK   
-440                Vytiska Jiří MUDr.  67               NK   
-441                 Wallach František  28              SPD   
-442            Wasylyszynová Kateřina  42      Soukromníci   
-443                        Weiss Emil  74               NK   
-444                  Wernerová Libuše  83          PRO2016   
-445                    Záhumenský Jan  53              SPD   
-446                 Zákoucký Vít Mgr.  40              ANO   
-447                     Záleský Jakub  41          PRO2016   
-448       Zámečník Jaroslav Ing. CSc.  52              SLK   
-449                  Zavoral Jiří Bc.  43              SLK   
-450                  Zavřelová Denisa  42             ČSSD   
-451           Zdráhala Petr Ing. Mgr.  52              ANO   
-452              Zdvihalová Miroslava  39          PRO2016   
-453                    Zedníček Milan  28              SPD   
-454            Zelenka Milan PharmDr.  53              USZ   
-455                        Zeler Aleš  47          PRO2016   
-456                    Zelinka Martin  46      Soukromníci   
-457                 Zelinková Ludmila  71             KSČM   
-458                       Zeman Marek  29             ČSSD   
-459                     Zemanová Hana  47              SLK   
-460                     Zikmund Tomáš  50         Svobodní   
-461               Židek Petr Mgr. MPA  49              ODS   
-462            Židková Lucie Mgr. MBA  46              ODS   
+              příjmení, jméno, tituly        Tituly          věk  \
+0           Absolonová Kateřina MUDr.         MUDr.       Zelení   
+1                Balašová Renáta Mgr.          Mgr.          ANO   
+2                      Ballaty Daniel                   Svobodní   
+3                          Bára Milan                         NK   
+4                    Bartáková Milada                       ČSSD   
+5                   Bartoň Zdeněk Bc.           Bc.           NK   
+6               Bartoníčková Veronika                        ANO   
+7                          Bartoš Jan                        SPD   
+8                  Bartošová Veronika                        SPD   
+9               Bartošová Zuzana Ing.          Ing.         ČSSD   
+10               Bartůšek Ondřej Mgr.          Mgr.          SLK   
+11                       Basl Vojtěch                         NK   
+12              Baslová Petra Alžběta                        TJ.   
+13                    Batthyány Tibor                    PRO2016   
+14           Baxa Jaromír PhDr. Ph.D.   PhDr. Ph.D.          TJ.   
+15                     Beck Vlastimil                        SPD   
+16   Beckert Michal Dipl.-Übers. (FH)                         NK   
+17                    Bělohlávek Jiří                       KSČM   
+18                       Benek Martin                   Svobodní   
+19                Benešová Radka Mgr.          Mgr.       Zelení   
+20                         Berčo Jiří                Soukromníci   
+21                       Berka Martin                        USZ   
+22               Berki Jan Mgr. Ph.D.    Mgr. Ph.D.          SLK   
+23                    Bernášek Zdeněk                       ČSSD   
+24                     Bezucha Michal                        NOS   
+25                      Bílková Iveta                        SLK   
+26                     Bitterlich Jan                         NK   
+27                         Bláha Jiří                        ANO   
+28                     Boček Alexandr                        SPD   
+29                     Borkovec Lukáš                    PRO2016   
+..                                ...           ...          ...   
+433                  Vorel Filip Mgr.          Mgr.           NK   
+434             Vostenak John Bc. MBA           Bc.          SPD   
+435                  Votoček Jaroslav                       KSČM   
+436                       Votruba Jan                         NK   
+437              Vrabec Vladimír Mgr.          Mgr.       Zelení   
+438                    Vrba Jan JUDr.         JUDr.  Soukromníci   
+439                Vytiska Jakub Ing.          Ing.          SLK   
+440                Vytiska Jiří MUDr.         MUDr.           NK   
+441                 Wallach František                        SPD   
+442            Wasylyszynová Kateřina                Soukromníci   
+443                        Weiss Emil                         NK   
+444                  Wernerová Libuše                    PRO2016   
+445                    Záhumenský Jan                        SPD   
+446                 Zákoucký Vít Mgr.          Mgr.          ANO   
+447                     Záleský Jakub                    PRO2016   
+448       Zámečník Jaroslav Ing. CSc.     Ing. CSc.          SLK   
+449                  Zavoral Jiří Bc.           Bc.          SLK   
+450                  Zavřelová Denisa                       ČSSD   
+451           Zdráhala Petr Ing. Mgr.     Ing. Mgr.          ANO   
+452              Zdvihalová Miroslava                    PRO2016   
+453                    Zedníček Milan                        SPD   
+454            Zelenka Milan PharmDr.      PharmDr.          USZ   
+455                        Zeler Aleš                    PRO2016   
+456                    Zelinka Martin                Soukromníci   
+457                 Zelinková Ludmila                       KSČM   
+458                       Zeman Marek                       ČSSD   
+459                     Zemanová Hana                        SLK   
+460                     Zikmund Tomáš                   Svobodní   
+461               Židek Petr Mgr. MPA          Mgr.          ODS   
+462            Židková Lucie Mgr. MBA          Mgr.          ODS   
 
-    Politickápříslušnost   Hlasy      Pořadízvolení/náhradníka Mandát  
-    Politickápříslušnost    abs.  v % Pořadízvolení/náhradníka Mandát  
-0                  BEZPP   4 332  274                        4      -  
-1                  BEZPP   6 865  270                        3      *  
-2               Svobodní   1 043  244                        -      -  
-3                  BEZPP     357  191                        -      -  
-4                   ČSSD     591  234                        -      -  
-5                  BEZPP     532  285                        -      -  
-6                  BEZPP   6 432  253                       15      -  
-7                    SPD   1 424  261                        -      -  
-8                  BEZPP   1 264  231                        -      -  
-9                   ČSSD     561  222                        -      -  
-10                 BEZPP   9 181  240                       19      -  
-11                 BEZPP   1 387  221                       29      -  
-12                 BEZPP   1 862  297                        3      -  
-13               PRO2016   2 276  533                        -      -  
-14                Zelení   2 820  449                        2      *  
-15                   SPD   1 390  254                        -      -  
-16                 BEZPP   1 442  230                       24      -  
-17                  KSČM     917  254                        -      -  
-18              Svobodní   1 097  257                        -      -  
-19                Zelení   3 933  249                       18      -  
-20           Soukromníci     157  285                        -      -  
-21                 BEZPP   1 357  268                        -      -  
-22                   SLK  10 508  275                        5      *  
-23                  ČSSD     607  240                        -      -  
-24                   NOS     440  236                        -      -  
-25                 BEZPP   9 612  251                        8      -  
-26                 BEZPP     393  211                        -      -  
-27                 BEZPP   6 104  240                       26      -  
-28                   SPD   1 352  247                        -      -  
-29                 BEZPP   1 013  237                        -      -  
-..                   ...     ...  ...                      ...    ...  
-433                BEZPP   1 727  275                        7      -  
-434                  SPD   1 482  271                        -      -  
-435                BEZPP     868  241                        -      -  
-436                BEZPP   1 174  187                       37      -  
-437               Zelení   4 113  260                        7      -  
-438                BEZPP     231  420                        -      -  
-439                BEZPP   9 804  256                        1      -  
-440                BEZPP   2 280  363                        1      -  
-441                  SPD   1 354  248                        -      -  
-442                BEZPP     127  231                        -      -  
-443                BEZPP   1 338  213                       31      -  
-444                BEZPP   1 027  240                        -      -  
-445                  SPD   1 358  248                        -      -  
-446                BEZPP   6 615  260                       12      -  
-447                BEZPP   1 038  243                        -      -  
-448                  SLK  10 825  283                        3      *  
-449                BEZPP   9 850  258                       14      *  
-450                BEZPP     590  234                        -      -  
-451                  ANO   6 718  264                       11      *  
-452                BEZPP   1 001  234                        -      -  
-453                  SPD   1 362  249                        -      -  
-454                BEZPP   1 326  262                        -      -  
-455                BEZPP   1 033  242                        -      -  
-456          Soukromníci     169  307                        -      -  
-457                 KSČM     929  258                        -      -  
-458                 ČSSD     646  256                        -      -  
-459              KDU-ČSL   9 959  260                       10      *  
-460                BEZPP   1 046  245                        -      -  
-461                  ODS   2 983  299                        1      *  
-462                  ODS   2 730  274                        8      -  
+    Navrhujícístrana Politickápříslušnost  abs. v % Pořadízvolení/náhradníka  \
+0              BEZPP                4 332   274   4                        -   
+1              BEZPP                6 865   270   3                        *   
+2           Svobodní                1 043   244   -                        -   
+3              BEZPP                  357   191   -                        -   
+4               ČSSD                  591   234   -                        -   
+5              BEZPP                  532   285   -                        -   
+6              BEZPP                6 432   253  15                        -   
+7                SPD                1 424   261   -                        -   
+8              BEZPP                1 264   231   -                        -   
+9               ČSSD                  561   222   -                        -   
+10             BEZPP                9 181   240  19                        -   
+11             BEZPP                1 387   221  29                        -   
+12             BEZPP                1 862   297   3                        -   
+13           PRO2016                2 276   533   -                        -   
+14            Zelení                2 820   449   2                        *   
+15               SPD                1 390   254   -                        -   
+16             BEZPP                1 442   230  24                        -   
+17              KSČM                  917   254   -                        -   
+18          Svobodní                1 097   257   -                        -   
+19            Zelení                3 933   249  18                        -   
+20       Soukromníci                  157   285   -                        -   
+21             BEZPP                1 357   268   -                        -   
+22               SLK               10 508   275   5                        *   
+23              ČSSD                  607   240   -                        -   
+24               NOS                  440   236   -                        -   
+25             BEZPP                9 612   251   8                        -   
+26             BEZPP                  393   211   -                        -   
+27             BEZPP                6 104   240  26                        -   
+28               SPD                1 352   247   -                        -   
+29             BEZPP                1 013   237   -                        -   
+..               ...                  ...   ...  ..                      ...   
+433            BEZPP                1 727   275   7                        -   
+434              SPD                1 482   271   -                        -   
+435            BEZPP                  868   241   -                        -   
+436            BEZPP                1 174   187  37                        -   
+437           Zelení                4 113   260   7                        -   
+438            BEZPP                  231   420   -                        -   
+439            BEZPP                9 804   256   1                        -   
+440            BEZPP                2 280   363   1                        -   
+441              SPD                1 354   248   -                        -   
+442            BEZPP                  127   231   -                        -   
+443            BEZPP                1 338   213  31                        -   
+444            BEZPP                1 027   240   -                        -   
+445              SPD                1 358   248   -                        -   
+446            BEZPP                6 615   260  12                        -   
+447            BEZPP                1 038   243   -                        -   
+448              SLK               10 825   283   3                        *   
+449            BEZPP                9 850   258  14                        *   
+450            BEZPP                  590   234   -                        -   
+451              ANO                6 718   264  11                        *   
+452            BEZPP                1 001   234   -                        -   
+453              SPD                1 362   249   -                        -   
+454            BEZPP                1 326   262   -                        -   
+455            BEZPP                1 033   242   -                        -   
+456      Soukromníci                  169   307   -                        -   
+457             KSČM                  929   258   -                        -   
+458             ČSSD                  646   256   -                        -   
+459          KDU-ČSL                9 959   260  10                        *   
+460            BEZPP                1 046   245   -                        -   
+461              ODS                2 983   299   1                        *   
+462              ODS                2 730   274   8                        -   
 
-[463 rows x 11 columns]"
+     Mandát  
+0       NaN  
+1       NaN  
+2       NaN  
+3       NaN  
+4       NaN  
+5       NaN  
+6       NaN  
+7       NaN  
+8       NaN  
+9       NaN  
+10      NaN  
+11      NaN  
+12      NaN  
+13      NaN  
+14      NaN  
+15      NaN  
+16      NaN  
+17      NaN  
+18      NaN  
+19      NaN  
+20      NaN  
+21      NaN  
+22      NaN  
+23      NaN  
+24      NaN  
+25      NaN  
+26      NaN  
+27      NaN  
+28      NaN  
+29      NaN  
+..      ...  
+433     NaN  
+434     NaN  
+435     NaN  
+436     NaN  
+437     NaN  
+438     NaN  
+439     NaN  
+440     NaN  
+441     NaN  
+442     NaN  
+443     NaN  
+444     NaN  
+445     NaN  
+446     NaN  
+447     NaN  
+448     NaN  
+449     NaN  
+450     NaN  
+451     NaN  
+452     NaN  
+453     NaN  
+454     NaN  
+455     NaN  
+456     NaN  
+457     NaN  
+458     NaN  
+459     NaN  
+460     NaN  
+461     NaN  
+462     NaN  
+
+[463 rows x 12 columns]"
+4,"     číslo                           název  poř.číslo příjmení, jméno, tituly  \
+0       11    Str.pro otevřenou společnost         15     Absolonová Kateřina   
+1        7                          Naděje         20            Adam Lubomír   
+2        7                          Naděje          2            Apltauer Jan   
+3       14         Unie pro sport a zdraví          3      Bahníková Štefania   
+4       14         Unie pro sport a zdraví         11             Bachtík Jan   
+5       13                      Pravý Blok         14     Balvirčáková Blanka   
+6        3  Demokratická regionální strana         27              Bartoš Jan   
+7       13                      Pravý Blok         12             Bartoš Petr   
+8        5   Křesť.demokr.unie-Čs.str.lid.         31         Bartošová Irena   
+9       13                      Pravý Blok         10        Bartošová Sylvie   
+10      16  Unie svobody-Demokratická unie         17        Bařinka Jaroslav   
+11       3  Demokratická regionální strana          9     Bečvářová Alexandra   
+12      11    Str.pro otevřenou společnost         38  Bednaříková Olga Marie   
+13       9  Komunistická str.Čech a Moravy          4         Bělohlávek Jiří   
+14      10    Česká str.sociálně demokrat.         27         Bělochová Šárka   
+15      14         Unie pro sport a zdraví         36     Bělonožník Miloslav   
+16       8   Hn.za harm.rozvoj obcí a měst         37            Berčo Martin   
+17       4    Občanská demokratická strana          9            Bernát Pavel   
+18      13                      Pravý Blok          2          Bernkopf Tomáš   
+19       8   Hn.za harm.rozvoj obcí a měst         13           Bezouška Jiří   
+20      11    Str.pro otevřenou společnost         36         Biňovcová Mária   
+21       6    Strana občanského porozumění          8        Blažek František   
+22       1                 Volba pro město         28            Blažek Pavel   
+23      11    Str.pro otevřenou společnost         29           Bobková Ivana   
+24       2    Republikáni Miroslava Sládka          9           Bock Miroslav   
+25      16  Unie svobody-Demokratická unie         34            Boháček Jiří   
+26      11    Str.pro otevřenou společnost          7             Böhm Marian   
+27       9  Komunistická str.Čech a Moravy         19           Böhm Miroslav   
+28      15                       NEZÁVISLÍ         20          Bondyová Marie   
+29       1                 Volba pro město          9           Bouzková Věra   
+..     ...                             ...        ...                     ...   
+507     13                      Pravý Blok         18           Volejník Petr   
+508     13                      Pravý Blok         17         Volejníková Eva   
+509      1                 Volba pro město          8          Volek Jindřich   
+510     15                       NEZÁVISLÍ         12          Volek Vladimír   
+511      9  Komunistická str.Čech a Moravy          1         Vondruška Josef   
+512      1                 Volba pro město         13      Vorlíčková Marcela   
+513     16  Unie svobody-Demokratická unie         19          Votrubec Milan   
+514     16  Unie svobody-Demokratická unie          7            Vrána Václav   
+515     12        Strana svobodných severu         12          Vyhlídko Luboš   
+516     14         Unie pro sport a zdraví         20       Vykoukal Jaroslav   
+517     16  Unie svobody-Demokratická unie         35           Vyskočil Jiří   
+518      4    Občanská demokratická strana         24       Wagnerová Václava   
+519     15                       NEZÁVISLÍ         29     Weinlichová Martina   
+520     11    Str.pro otevřenou společnost         11            Winter Josef   
+521      9  Komunistická str.Čech a Moravy         24         Zábranská Marie   
+522     12        Strana svobodných severu          1       Zahradníček Pavel   
+523      4    Občanská demokratická strana         34       Zámečník Jaroslav   
+524      1                 Volba pro město         14       Zástěra Svatopluk   
+525     13                      Pravý Blok          8           Zelenka Milan   
+526      9  Komunistická str.Čech a Moravy          6       Zelinková Ludmila   
+527      4    Občanská demokratická strana         13            Zeronik Jiří   
+528      8   Hn.za harm.rozvoj obcí a měst         30            Zikmund Jiří   
+529     12        Strana svobodných severu          2            Zítek Martin   
+530      7                          Naděje          1           Zmatlík Libor   
+531     10    Česká str.sociálně demokrat.         36          Zwiener Rudolf   
+532     16  Unie svobody-Demokratická unie         31             Žáček Josef   
+533      8   Hn.za harm.rozvoj obcí a měst         12          Žďánský Patrik   
+534      8   Hn.za harm.rozvoj obcí a měst         32           Želonka Roman   
+535      8   Hn.za harm.rozvoj obcí a měst         35              Žižka Petr   
+536      6    Strana občanského porozumění          3          Žlábek Jaromír   
+
+        Tituly  věk Navrhujícístrana Politickápříslušnost   abs.    v %  \
+0        MUDr.   36              SOS                BEZPP  2 749   2.80   
+1          NaN   33                N                BEZPP    188   2.07   
+2         Ing.   27                N                BEZPP    487   5.38   
+3         Ing.   49              USZ                  USZ  2 320   3.27   
+4          NaN   68              USZ                  USZ  1 905   2.69   
+5          NaN   20               PB                BEZPP    105   3.65   
+6          NaN   58              DRS                  DRS  1 336   2.21   
+7          NaN   54               PB                BEZPP    114   3.96   
+8         Ing.   46          KDU-ČSL              KDU-ČSL    739   2.08   
+9          NaN   47               PB                BEZPP    118   4.10   
+10        Ing.   61           US-DEU                BEZPP  1 426   2.64   
+11     PaedDr.   46              DRS                BEZPP  1 700   2.82   
+12         NaN   51              SOS                BEZPP  1 636   1.67   
+13         NaN   52             KSČM                 KSČM  2 971   2.80   
+14         NaN   19             ČSSD                 ČSSD  3 820   2.46   
+15         NaN   84              USZ                BEZPP  1 317   1.85   
+16         NaN   35            HNHRM                BEZPP    344   1.77   
+17        Ing.   41              ODS                  ODS  7 426   2.71   
+18         NaN   43               PB                BEZPP    316  10.99   
+19         NaN   51            HNHRM                BEZPP    412   2.12   
+20         NaN   66              SOS                  SŽJ  1 764   1.80   
+21         NaN   56              SOP                BEZPP    101   2.99   
+22         NaN   45              VPM                BEZPP    861   2.04   
+23         NaN   45              SOS                BEZPP  2 193   2.24   
+24         NaN   24              RMS                  RMS     93   6.34   
+25         NaN   22           US-DEU               US-DEU  1 075   1.99   
+26        Ing.   23              SOS                BEZPP  2 557   2.61   
+27         NaN   44             KSČM                BEZPP  2 674   2.52   
+28         NaN   53              NEZ                BEZPP    972   1.91   
+29         NaN   51              VPM                BEZPP  1 044   2.47   
+..         ...  ...              ...                  ...    ...    ...   
+507       Ing.   51               PB                BEZPP    125   4.34   
+508       Ing.   50               PB                BEZPP    123   4.27   
+509       Ing.   61              VPM                 ČSNS    975   2.31   
+510       Ing.   47              NEZ                BEZPP  1 124   2.21   
+511      JUDr.   54             KSČM                 KSČM  3 251   3.06   
+512        NaN   53              VPM                BEZPP    890   2.10   
+513        NaN   29           US-DEU               US-DEU  1 308   2.42   
+514        NaN   59           US-DEU               US-DEU  1 694   3.13   
+515        NaN   50              SSS                  SSS    114   3.23   
+516       Mgr.   37              USZ                BEZPP  1 688   2.38   
+517        NaN   26           US-DEU               US-DEU  1 051   1.94   
+518        NaN   51              ODS                  ODS  6 877   2.51   
+519        NaN   31              NEZ                BEZPP    917   1.80   
+520       Ing.   67              SOS                  SOS  2 394   2.44   
+521        NaN   58             KSČM                 KSČM  2 650   2.50   
+522       Ing.   49              SSS                  SSS    452  12.81   
+523  Ing. CSc.   36              ODS                  ODS  6 620   2.42   
+524       Ing.   54              VPM                BEZPP  1 155   2.73   
+525   PharmDr.   37               PB                BEZPP    325  11.30   
+526        NaN   55             KSČM                 KSČM  2 829   2.67   
+527        NaN   26              ODS                  ODS  7 160   2.62   
+528        NaN   80            HNHRM                BEZPP    354   1.82   
+529      MUDr.   39              SSS                  SSS    566  16.04   
+530       Mgr.   27                N                BEZPP    676   7.47   
+531        NaN   56             ČSSD                 ČSSD  3 313   2.13   
+532        NaN   25           US-DEU               US-DEU  1 147   2.12   
+533       Ing.   32            HNHRM                BEZPP    579   2.98   
+534        NaN   26            HNHRM                BEZPP    346   1.78   
+535        NaN   23            HNHRM                BEZPP    347   1.78   
+536        NaN   47              SOP                BEZPP    249   7.38   
+
+     Pořadízvolení/náhradníka Mandát  
+0                        12.0    NaN  
+1                         NaN    NaN  
+2                         NaN    NaN  
+3                         4.0    NaN  
+4                         9.0    NaN  
+5                         NaN    NaN  
+6                        24.0    NaN  
+7                         NaN    NaN  
+8                         NaN    NaN  
+9                         NaN    NaN  
+10                       16.0    NaN  
+11                        7.0    NaN  
+12                       34.0    NaN  
+13                        4.0      *  
+14                       20.0    NaN  
+15                       33.0    NaN  
+16                        NaN    NaN  
+17                       10.0      *  
+18                        NaN    NaN  
+19                        NaN    NaN  
+20                       32.0    NaN  
+21                        NaN    NaN  
+22                        NaN    NaN  
+23                       25.0    NaN  
+24                        NaN    NaN  
+25                       32.0    NaN  
+26                        6.0    NaN  
+27                       14.0    NaN  
+28                       18.0    NaN  
+29                        NaN    NaN  
+..                        ...    ...  
+507                       NaN    NaN  
+508                       NaN    NaN  
+509                       NaN    NaN  
+510                      11.0    NaN  
+511                       2.0      *  
+512                       NaN    NaN  
+513                      17.0    NaN  
+514                       3.0    NaN  
+515                       NaN    NaN  
+516                      18.0    NaN  
+517                      33.0    NaN  
+518                      11.0    NaN  
+519                      27.0    NaN  
+520                       8.0    NaN  
+521                      19.0    NaN  
+522                       NaN    NaN  
+523                      21.0    NaN  
+524                       NaN    NaN  
+525                       NaN    NaN  
+526                       1.0    NaN  
+527                      13.0      *  
+528                       NaN    NaN  
+529                       NaN    NaN  
+530                       NaN    NaN  
+531                      29.0    NaN  
+532                      29.0    NaN  
+533                       NaN    NaN  
+534                       NaN    NaN  
+535                       NaN    NaN  
+536                       NaN    NaN  
+
+[537 rows x 12 columns]"
